@@ -17,9 +17,9 @@ To be successful, the North Coast Church website requires a collaborative, proac
 
 **Responsibility**
 
-The Marketing Department and Chief Experience Officer (CXO) are responsible for the website content and ensuring that materials meet legal and policy requirements.
+The Communications Department is responsible for the website content and ensuring that materials meet legal and policy requirements.
 
-The IT Department is responsible for the security, functionality, and infrastructure of the website. The System Administrators will monitor the North Coast Church website for response time and to resolve any issues encountered. The Core System Analyst will monitor the Online Banking Program for outages and will open a case with the appropriate vendor to log the event.
+The Web Team is responsible for the security, functionality, and infrastructure of the website. Web Administrators will monitor the North Coast Church website for response time and to resolve any issues encountered.
 
 **Links**
 
