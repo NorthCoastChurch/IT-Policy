@@ -32,7 +32,7 @@ The purpose of this policy is to outline the acceptable use of computer equipmen
 
 This policy applies to the use of information, electronic and computing devices, and network resources to conduct North Coast Church business or interacts with internal networks and business systems, whether owned or leased by North Coast Church, the employee, or a third party.
 
-All employees, volunteer/directors, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties, are responsible for exercising good judgment regarding appropriate use of information, electronic devices, and network resources in accordance with North Coast Church policies and standards, local laws, and regulations.
+All employees, volunteers, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties, are responsible for exercising good judgment regarding appropriate use of information, electronic devices, and network resources in accordance with North Coast Church policies and standards, local laws, and regulations.
 
 ## **Policy Detail**
 
@@ -100,7 +100,7 @@ Authorized users must use extreme caution when opening e-mail attachments receiv
 
 Users must not intentionally access, create, store, or transmit material which North Coast Church may deem to be offensive, indecent, or obscene.
 
-Under no circumstances is an employee, volunteer/director, contractor, consultant, or temporary employee of North Coast Church authorized to engage in any activity that is illegal under local, state, federal, or international law while utilizing North Coast Church-owned resources.
+Under no circumstances is an employee, volunteer, contractor, consultant, or temporary employee of North Coast Church authorized to engage in any activity that is illegal under local, state, federal, or international law while utilizing North Coast Church-owned resources.
 
 **System and Network Activities**
 
