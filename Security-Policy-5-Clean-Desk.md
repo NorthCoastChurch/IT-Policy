@@ -1,8 +1,8 @@
 # **Overview**
 
-{COMPANY-NAME} is committed to protecting the privacy of its employees and members and shall protect the confidentiality of nonpublic information consistent with state and federal laws.
+North Coast Church is committed to protecting the privacy of its employees and members and shall protect the confidentiality of nonpublic information consistent with state and federal laws.
 
-{COMPANY-NAME} has an obligation to ensure the security and confidentiality of its member records and to protect these records against unauthorized access that could result in any type of loss or inconvenience for its members.
+North Coast Church has an obligation to ensure the security and confidentiality of its member records and to protect these records against unauthorized access that could result in any type of loss or inconvenience for its members.
 
 **Purpose**
 
@@ -12,7 +12,7 @@ Because of the risk of being compromised, confidential information should always
 
 ## **Policy Detail**
 
-To maintain the security and privacy of employees’ and members’ personal information, {COMPANY-NAME} employees should observe the “clean desk” rule. All employees should take appropriate actions to prevent unauthorized persons from having access to member information, applications, or data. Employees are also required to make a conscientious check of their surrounding work environment to ensure that there will be no loss of confidentiality to data media or documents.
+To maintain the security and privacy of employees’ and members’ personal information, North Coast Church employees should observe the “clean desk” rule. All employees should take appropriate actions to prevent unauthorized persons from having access to member information, applications, or data. Employees are also required to make a conscientious check of their surrounding work environment to ensure that there will be no loss of confidentiality to data media or documents.
 
 The clean desk policy applies to:
 
@@ -26,7 +26,7 @@ The clean desk policy applies to:
     - or password that could permit access to an individual’s financial account
   - Restricted data is divided into two categories:
   - Personal data, that refers to any combination of information that identifies and describes an individual.
-  - Limited data, that refers to electronic information whose unauthorized access, modification, or loss could seriously or adversely affect {COMPANY-NAME}, its members, and non-members.
+  - Limited data, that refers to electronic information whose unauthorized access, modification, or loss could seriously or adversely affect North Coast Church, its members, and non-members.
 - Electronic devices, including cell phones and PDAs
 - Keys used to access sensitive information
 - Printouts containing sensitive information

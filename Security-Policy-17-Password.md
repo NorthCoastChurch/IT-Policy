@@ -8,7 +8,7 @@
 
 # **Overview**
 
-Passwords are an important aspect of computer security. They are the front line of protection for user accounts. A poorly chosen password may result in the compromise of {COMPANY-NAME}’s entire corporate network. As such, all {COMPANY-NAME} employees or volunteers/directors (including contractors and vendors with access to {COMPANY-NAME} systems) are responsible for taking the appropriate steps, as outlined below, to select and secure their passwords.
+Passwords are an important aspect of computer security. They are the front line of protection for user accounts. A poorly chosen password may result in the compromise of North Coast Church’s entire corporate network. As such, all North Coast Church employees or volunteers/directors (including contractors and vendors with access to North Coast Church systems) are responsible for taking the appropriate steps, as outlined below, to select and secure their passwords.
 
 **Purpose**
 
@@ -16,13 +16,13 @@ The purpose of this policy is to establish a standard for the creation of strong
 
 **Audience**
 
-This policy applies to all personnel or volunteers/directors who have, or are responsible for, an account (or any form of access that supports or requires a password) on any system that resides at any {COMPANY-NAME} facility, has access to the {COMPANY-NAME} network, or stores any non-public {COMPANY-NAME} information.
+This policy applies to all personnel or volunteers/directors who have, or are responsible for, an account (or any form of access that supports or requires a password) on any system that resides at any North Coast Church facility, has access to the North Coast Church network, or stores any non-public North Coast Church information.
 
 ## **Policy Detail**
 
 **User Network Passwords**
 
-- Passwords for {COMPANY-NAME} network access must be implemented according to the following guidelines:
+- Passwords for North Coast Church network access must be implemented according to the following guidelines:
 - Passwords must be changed every 90 days
 - Passwords must adhere to a minimum length of 10 characters
 - Passwords must contain a combination of alpha, numeric, and special characters, where the computing system permits (!@#$%^&\*\_+=?/~’;’,<>|\\).
@@ -42,13 +42,13 @@ This policy applies to all personnel or volunteers/directors who have, or are re
 **Password Protection /R**
 
 - - The same password must not be used for multiple accounts.
-    - Passwords must not be shared with anyone. All passwords are to be treated as sensitive, confidential {COMPANY-NAME} information.
+    - Passwords must not be shared with anyone. All passwords are to be treated as sensitive, confidential North Coast Church information.
     - Stored passwords must be encrypted.
     - Passwords must not be inserted in e-mail messages or other forms of electronic communication.
     - Passwords must not be revealed over the phone to anyone.
     - Passwords must not be revealed on questionnaires or security forms.
     - Users must not hint at the format of a password (for example, “my family name”).
-    - {COMPANY-NAME} passwords must not be shared with anyone, including co-workers, managers, or family members, while on vacation.
+    - North Coast Church passwords must not be shared with anyone, including co-workers, managers, or family members, while on vacation.
     - Passwords must not be written down and stored anywhere in any office. Passwords must not be stored in a file on a computer system or mobile device (phone, tablet) without encryption.
     - If the security of an account is in question, the password must be changed immediately. In the event passwords are found or discovered, the following steps must be taken:
 - Take control of the passwords and protect them
@@ -58,7 +58,7 @@ This policy applies to all personnel or volunteers/directors who have, or are re
   - If the security of an account is in question, the password must be changed immediately. In the event passwords are found or discovered, the following steps must be taken:
 - Take control of the passwords and protect them
 - Report the discovery to IT /R
-  - Security tokens (i.e. smartcards, RSA hardware tokens, etc.) must be returned upon demand or upon termination of the relationship with {COMPANY-NAME}.
+  - Security tokens (i.e. smartcards, RSA hardware tokens, etc.) must be returned upon demand or upon termination of the relationship with North Coast Church.
 
 **Application Development Standards**
 

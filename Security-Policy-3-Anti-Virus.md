@@ -28,25 +28,25 @@ Read the full list of common vulnerabilities here:
 
 # **Overview**
 
-Malware threats must be managed to minimize the amount of downtime realized by {COMPANY-NAME}’s systems and prevent risk to critical systems and member data. This policy is established to:
+Malware threats must be managed to minimize the amount of downtime realized by North Coast Church’s systems and prevent risk to critical systems and member data. This policy is established to:
 
 - Create prudent and acceptable practices regarding anti-virus management
 - Define key terms regarding malware and anti-virus protection
-- Educate individuals, who utilize {COMPANY-NAME} system resources, on the responsibilities associated with anti-virus protection
+- Educate individuals, who utilize North Coast Church system resources, on the responsibilities associated with anti-virus protection
 
 **Note**: The terms virus and malware, as well as anti-virus and anti-malware, may be used interchangeably.
 
 **Purpose**
 
-This policy was established to help prevent infection of {COMPANY-NAME} computers, networks, and technology systems from malware and other malicious code. This policy is intended to help prevent damage to user applications, data, files, and hardware.
+This policy was established to help prevent infection of North Coast Church computers, networks, and technology systems from malware and other malicious code. This policy is intended to help prevent damage to user applications, data, files, and hardware.
 
 **Audience**
 
-This policy applies to all computers connecting to the {COMPANY-NAME} network for communications, file sharing, etc. This includes, but is not limited to, desktop computers, laptop computers, servers, and any PC based equipment connecting to the {COMPANY-NAME} network.
+This policy applies to all computers connecting to the North Coast Church network for communications, file sharing, etc. This includes, but is not limited to, desktop computers, laptop computers, servers, and any PC based equipment connecting to the North Coast Church network.
 
 ## **Policy Detail**
 
-All computer devices connected to the {COMPANY-NAME} network and networked resources shall have anti-virus software installed and configured so that the virus definition files are current and are routinely and automatically updated. The anti-virus software must be actively running on these devices.
+All computer devices connected to the North Coast Church network and networked resources shall have anti-virus software installed and configured so that the virus definition files are current and are routinely and automatically updated. The anti-virus software must be actively running on these devices.
 
 The virus protection software must not be disabled or bypassed without IT approval.
 
@@ -54,22 +54,22 @@ The settings for the virus protection software must not be altered in a manner t
 
 The automatic update frequency of the virus protection software must not be altered to reduce the frequency of updates.
 
-Each file server, attached to the {COMPANY-NAME} network, must utilize {COMPANY-NAME} IT approved virus protection software and setup to detect and clean viruses that may infect {COMPANY-NAME} resources.
+Each file server, attached to the North Coast Church network, must utilize North Coast Church IT approved virus protection software and setup to detect and clean viruses that may infect North Coast Church resources.
 
-Each e-mail gateway must utilize {COMPANY-NAME} IT approved e-mail virus protection software.
+Each e-mail gateway must utilize North Coast Church IT approved e-mail virus protection software.
 
 All files on computer devices will be scanned periodically for malware.
 
 Every virus that is not automatically cleaned by the virus protection software constitutes a security incident and must be reported to the Service Desk.
 
-If deemed necessary to prevent propagation to other networked devices or detrimental effects to the network or data, an infected computer device may be disconnected from the {COMPANY-NAME} network until the infection has been removed.
+If deemed necessary to prevent propagation to other networked devices or detrimental effects to the network or data, an infected computer device may be disconnected from the North Coast Church network until the infection has been removed.
 
 **Users should:**
 
 - Avoid viruses by NEVER opening any files or macros attached to an e-mail from an unknown, suspicious, or untrustworthy source. Delete these attachments immediately then remove them from the Trash or Recycle Bin.
 - Delete spam, chain, or other junk mail without opening or forwarding the item.
 - Never download files from unknown or suspicious sources.
-- Always scan removable media from an unknown or non-{COMPANY-NAME} source (such as a CD or USB from a vendor) for viruses before using it.
-- Back up critical data on a regular basis and store the data in a safe place. Critical {COMPANY-NAME} data can be saved to network drives and are backed up on a periodic basis. Contact the {COMPANY-NAME} IT Department for details.
+- Always scan removable media from an unknown or non-North Coast Church source (such as a CD or USB from a vendor) for viruses before using it.
+- Back up critical data on a regular basis and store the data in a safe place. Critical North Coast Church data can be saved to network drives and are backed up on a periodic basis. Contact the North Coast Church IT Department for details.
 
-Because new viruses are discovered every day, users should periodically check the Anti-Virus Policy for updates. The {COMPANY-NAME} IT Department should be contacted for updated recommendations.
+Because new viruses are discovered every day, users should periodically check the Anti-Virus Policy for updates. The North Coast Church IT Department should be contacted for updated recommendations.

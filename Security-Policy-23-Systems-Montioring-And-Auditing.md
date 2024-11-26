@@ -1,12 +1,12 @@
 # **Overview**
 
-Systems monitoring and auditing, at {COMPANY-NAME}, must be performed to determine when a failure of the information system security, or a breach of the information systems itself, has occurred, and the details of that breach or failure.
+Systems monitoring and auditing, at North Coast Church, must be performed to determine when a failure of the information system security, or a breach of the information systems itself, has occurred, and the details of that breach or failure.
 
 **Purpose**
 
 System monitoring and auditing is used to determine if inappropriate actions have occurred within an information system. System monitoring is used to look for these actions in real time while system auditing looks for them after the fact.
 
-This policy applies to all information systems and information system components of {COMPANY-NAME}. Specifically, it includes:
+This policy applies to all information systems and information system components of North Coast Church. Specifically, it includes:
 
 - Mainframes, servers, and other devices that provide centralized computing capabilities
 - Devices that provide centralized storage capabilities

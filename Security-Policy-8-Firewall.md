@@ -20,11 +20,11 @@
 
 # **Overview**
 
-{COMPANY-NAME} operates network firewalls between the Internet and its private internal network to create a secure operating environment for {COMPANY-NAME}’s computer and network resources. A firewall is just one element of a layered approach to network security.
+North Coast Church operates network firewalls between the Internet and its private internal network to create a secure operating environment for North Coast Church’s computer and network resources. A firewall is just one element of a layered approach to network security.
 
 **Purpose**
 
-This policy governs how the firewalls will filter Internet traffic to mitigate the risks and losses associated with security threats to {COMPANY-NAME}’s network and information systems.
+This policy governs how the firewalls will filter Internet traffic to mitigate the risks and losses associated with security threats to North Coast Church’s network and information systems.
 
 The firewall will (at minimum) perform the following security services:
 
@@ -38,7 +38,7 @@ The firewall will (at minimum) perform the following security services:
 
 # **Policy Detail**
 
-All network firewalls, installed and implemented, must conform to the current standards as determined by {COMPANY-NAME}’s IT Department. Unauthorized or non-standard equipment is subject to immediate removal, confiscation, and/or termination of network connectivity without notice.
+All network firewalls, installed and implemented, must conform to the current standards as determined by North Coast Church’s IT Department. Unauthorized or non-standard equipment is subject to immediate removal, confiscation, and/or termination of network connectivity without notice.
 
 The approach adopted to define firewall rulesets is that all services will be denied by the firewall unless expressly permitted in this policy.
 
@@ -52,15 +52,15 @@ The firewalls will protect against:
 
 - IP spoofing attacks – the creation of IP packets with a forged source IP address with the purpose of concealing the identity of the sender or impersonating another computing system.
 - Denial-of-Service (DoS) attacks - the goal is to flood the victim with overwhelming amounts of traffic and the attacker does not care about receiving responses to the attack packets.
-- Any network information utility that would reveal information about the {COMPANY-NAME} domain.
+- Any network information utility that would reveal information about the North Coast Church domain.
 
-A change control process is required before any firewall rules are modified. Prior to implementation, the Third Party Vendor and {COMPANY-NAME} network administrators are required to have the modifications approved by the Director of IT or the VP of IT. All related documentation is to be retained for three (3) years.
+A change control process is required before any firewall rules are modified. Prior to implementation, the Third Party Vendor and North Coast Church network administrators are required to have the modifications approved by the Director of IT or the VP of IT. All related documentation is to be retained for three (3) years.
 
 All firewall implementations must adopt the position of “least privilege” and deny all inbound traffic by default. The ruleset should be opened incrementally to only allow permissible traffic.
 
 Firewall rulesets and configurations require periodic review to ensure they afford the required levels of protection:
 
-{COMPANY-NAME} must review all network firewall rulesets and configurations during the initial implementation process and periodically thereafter.
+North Coast Church must review all network firewall rulesets and configurations during the initial implementation process and periodically thereafter.
 
 Firewall rulesets and configurations must be backed up frequently to alternate storage (not on the same device). Multiple generations must be captured and retained, to preserve the integrity of the data, should restoration be required.
 
@@ -68,11 +68,11 @@ Access to rulesets and configurations and backup media must be restricted to tho
 
 **Responsibilities**
 
-The IT Department is responsible for implementing and maintaining {COMPANY-NAME} firewalls, as well as for enforcing and updating this policy. Logon access to the firewall will be restricted to a primary firewall administrator and designees as assigned. Password construction for the firewall will be consistent with the strong password creation practices outlined in the {COMPANY-NAME} Password Policy.
+The IT Department is responsible for implementing and maintaining North Coast Church firewalls, as well as for enforcing and updating this policy. Logon access to the firewall will be restricted to a primary firewall administrator and designees as assigned. Password construction for the firewall will be consistent with the strong password creation practices outlined in the North Coast Church Password Policy.
 
-The specific guidance and direction for information systems security is the responsibility of IT. Accordingly, IT will manage the configuration of the {COMPANY-NAME} firewalls.
+The specific guidance and direction for information systems security is the responsibility of IT. Accordingly, IT will manage the configuration of the North Coast Church firewalls.
 
-{COMPANY-NAME} has contracted with a Third Party Vendor to manage the external firewalls. This vendor will be responsible for:
+North Coast Church has contracted with a Third Party Vendor to manage the external firewalls. This vendor will be responsible for:
 
 - Retention of the firewall rules
 - Patch Management
@@ -80,5 +80,5 @@ The specific guidance and direction for information systems security is the resp
 - System errors
 - Blocked web sites
 - Attacks
-- Sending alerts to the {COMPANY-NAME} network administrators in the event of attacks or system errors
+- Sending alerts to the North Coast Church network administrators in the event of attacks or system errors
 - Backing up the firewalls

@@ -10,7 +10,7 @@ IoT devices may be business oriented, consumer based, or a hybrid of both. The d
 
 **Purpose**
 
-The purpose of this policy is to establish a defined IoT structure to ensure that data and operations are properly secured. IoT devices continue making inroads in the business world; therefore, it is necessary for {COMPANY-NAME} to have this structure in place.
+The purpose of this policy is to establish a defined IoT structure to ensure that data and operations are properly secured. IoT devices continue making inroads in the business world; therefore, it is necessary for North Coast Church to have this structure in place.
 
 ## **Policy Detail**
 
@@ -26,9 +26,9 @@ The IT department is responsible for identifying compatible platforms, purchasin
 
 **Cybersecurity Risks and Privacy Risk Considerations**
 
-It is important for {COMPANY-NAME} to understand the use of IoT because many IoT devices affect cybersecurity and privacy risks differently than IT devices do. Being aware of the existing IoT usage and possible future usage will assist {COMPANY-NAME} in understanding how the characteristics of IoT affect managing cybersecurity and privacy risks, especially in terms of risk response.
+It is important for North Coast Church to understand the use of IoT because many IoT devices affect cybersecurity and privacy risks differently than IT devices do. Being aware of the existing IoT usage and possible future usage will assist North Coast Church in understanding how the characteristics of IoT affect managing cybersecurity and privacy risks, especially in terms of risk response.
 
-It is important for {COMPANY-NAME} to manage cybersecurity and privacy risk for IoT devices versus conventional IT devices, determining how those risk considerations might impact risk management in general, risk response and particularly mitigation, and identifying basic cybersecurity and privacy controls {COMPANY-NAME} may want to consider, adapt, and potentially include in requirements when acquiring IoT devices. The IoT Risk Management Guide contains insight as to the differences in risk between conventional IT devices and IoT devices. This document resides in the IT document storage area.
+It is important for North Coast Church to manage cybersecurity and privacy risk for IoT devices versus conventional IT devices, determining how those risk considerations might impact risk management in general, risk response and particularly mitigation, and identifying basic cybersecurity and privacy controls North Coast Church may want to consider, adapt, and potentially include in requirements when acquiring IoT devices. The IoT Risk Management Guide contains insight as to the differences in risk between conventional IT devices and IoT devices. This document resides in the IT document storage area.
 
 **ADDENDUM A**
 

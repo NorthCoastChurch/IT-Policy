@@ -10,13 +10,13 @@
 
 # **Overview**
 
-Most components of the IT infrastructure at {COMPANY-NAME} are capable of producing logs chronicling their activity over time. These logs often contain very detailed information about the activities of applications and the layers of software and hardware that support those applications.
+Most components of the IT infrastructure at North Coast Church are capable of producing logs chronicling their activity over time. These logs often contain very detailed information about the activities of applications and the layers of software and hardware that support those applications.
 
 Logging from critical systems, applications, and services can provide key information and potential indicators of compromise and is critical to have for forensics analysis.
 
 **Purpose**
 
-Log management can be of great benefit in a variety of scenarios, with proper management, to enhance security, system performance, resource management, and regulatory compliance. {COMPANY-NAME} will perform a periodic risk assessment to determine what information may be captured from the following:
+Log management can be of great benefit in a variety of scenarios, with proper management, to enhance security, system performance, resource management, and regulatory compliance. North Coast Church will perform a periodic risk assessment to determine what information may be captured from the following:
 
 - Access – who is using services
 - Change Monitoring – how and when services were modified
@@ -59,11 +59,11 @@ Other components for the network infrastructure, such as Dynamic Host Configurat
 
 **Time synchronization**
 
-One of the important functions of a log management infrastructure is to relate records from various sources by time. Therefore, it is important that all components of the IT infrastructure have synchronized clocks. {COMPANY-NAME} uses Network Time Protocol (NTP) for time synchronization.
+One of the important functions of a log management infrastructure is to relate records from various sources by time. Therefore, it is important that all components of the IT infrastructure have synchronized clocks. North Coast Church uses Network Time Protocol (NTP) for time synchronization.
 
 **Use of log information**
 
-Logs often contain information that, if misused, could represent an invasion of the privacy of members of {COMPANY-NAME}. While it is necessary for {COMPANY-NAME} to perform regular collection and monitoring of these logs, this activity should be done in the least invasive manner.
+Logs often contain information that, if misused, could represent an invasion of the privacy of members of North Coast Church. While it is necessary for North Coast Church to perform regular collection and monitoring of these logs, this activity should be done in the least invasive manner.
 
 **Baseline behavior**
 
@@ -77,7 +77,7 @@ Thresholds shall be established that dictate what level of staff or management r
 
 **Log record life-cycle management**
 
-When logs document or contain valuable information related to activities of {COMPANY-NAME}’s information resources or the people who manage those resources, they are {COMPANY-NAME} Administrative Records, subject to the requirements of {COMPANY-NAME} to ensure that they are appropriately managed and preserved and can be retrieved as needed.
+When logs document or contain valuable information related to activities of North Coast Church’s information resources or the people who manage those resources, they are North Coast Church Administrative Records, subject to the requirements of North Coast Church to ensure that they are appropriately managed and preserved and can be retrieved as needed.
 
 **Retention**
 
@@ -87,7 +87,7 @@ To facilitate investigations, as well as to protect privacy, the retention of lo
 - The need to support investigations
 - The cost of retaining the records
 
-Care should be taken not to retain log records that are not needed. The cost of long- term retention can be significant and could expose {COMPANY-NAME} to high costs of retrieving and reviewing the otherwise unneeded records in the event of litigation.
+Care should be taken not to retain log records that are not needed. The cost of long- term retention can be significant and could expose North Coast Church to high costs of retrieving and reviewing the otherwise unneeded records in the event of litigation.
 
 **Log management infrastructure**
 

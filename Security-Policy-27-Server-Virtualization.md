@@ -14,15 +14,15 @@ Platform Architecture policies, standards, and guidelines will be used to acquir
 
 ## **Policy Detail**
 
-{COMPANY-NAME}’s VP of IT has the overall responsibility for ensuring that policies are followed in order to establish contracts and the confidentiality, integrity, and availability of {COMPANY-NAME} data.
+North Coast Church’s VP of IT has the overall responsibility for ensuring that policies are followed in order to establish contracts and the confidentiality, integrity, and availability of North Coast Church data.
 
 Other IT staff members, under the direction of the Director of IT, are responsible for following the procedures and policies within IT.
 
-{COMPANY-NAME}’s legacy IT practice was to dedicate one physical server to a single workload. The result of this practice was excessive server underutilization, an ever- expanding data center footprint, and excessive data center power consumption.
+North Coast Church’s legacy IT practice was to dedicate one physical server to a single workload. The result of this practice was excessive server underutilization, an ever- expanding data center footprint, and excessive data center power consumption.
 
-Server virtualization software allows the consolidation of new and existing workloads onto high capacity x86 servers. Consolidating workloads onto high capacity x86 servers allows {COMPANY-NAME} to reduce the x86 server inventory, which in turn decreases the data center footprint and data center power consumption.
+Server virtualization software allows the consolidation of new and existing workloads onto high capacity x86 servers. Consolidating workloads onto high capacity x86 servers allows North Coast Church to reduce the x86 server inventory, which in turn decreases the data center footprint and data center power consumption.
 
-{COMPANY-NAME} will migrate all new and existing workloads from physical servers to virtual machines. Hardware will be retired at such time as planned by IT management or required by incompatibility with Operating Systems (OS) and/or workload specific software updates.
+North Coast Church will migrate all new and existing workloads from physical servers to virtual machines. Hardware will be retired at such time as planned by IT management or required by incompatibility with Operating Systems (OS) and/or workload specific software updates.
 
 **Server Virtualization Requirements:**
 
