@@ -137,8 +137,7 @@ As a convenience to the North Coast Church user community, incidental use of inf
 - Authorized Users are responsible for exercising good judgment regarding the reasonableness of personal use. Immediate supervisors are responsible for supervising their employees regarding excessive use.
 - Incidental personal use of electronic mail, internet access, fax machines, printers, copiers, and so on, is restricted to North Coast Church approved users; it does not extend to family members or other acquaintances.
 - Incidental use must not result in direct costs to North Coast Church without prior approval of management.
-- Incidental use must not interfere with the normal performance of an employee’s
-- work duties.
+- Incidental use must not interfere with the normal performance of an employee’s work duties.
 - No files or documents may be sent or received that may cause legal action against, or embarrassment to, North Coast Church.
 - Storage of personal email messages, voice messages, files, and documents within North Coast Church’s information systems must be nominal.
 - All messages, files, and documents — including personal messages, files, and documents — located on North Coast Church information systems are owned by North Coast Church, may be subject to open records requests, and may be accessed in accordance with this policy.
