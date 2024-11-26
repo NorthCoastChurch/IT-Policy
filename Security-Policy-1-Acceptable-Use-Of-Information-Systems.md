@@ -1,4 +1,4 @@
-# Acceptable-Use-Of-Information-Systems
+# Acceptable Use Of Information Systems
 
 # **Definitions**
 
@@ -16,7 +16,7 @@ Data, electronic file content, information systems, and computer systems at Nort
 
 Information Technology’s (IT) intentions are not to impose restrictions that are contrary to North Coast Church’s established culture of openness, trust, and integrity. IT is committed to protecting North Coast Church’s authorized users, partners, and the company from illegal or damaging actions by individuals either knowingly or unknowingly.
 
-Internet/Intranet/Extranet-related systems, including, but not limited to, computer equipment, software, operating systems, storage media, network accounts providing electronic mail, WWW browsing, and File Transfer Protocol (FTP) are the property of North Coast Church.
+Internet/Intranet/Extranet-related systems, including, but not limited to, computer equipment, software, operating systems, storage media, network accounts providing electronic mail, instant messaging, web browsing, and file sharing are the property of North Coast Church.
 
 These systems are to be used for business purposes in serving the interests of North Coast Church and of its clients and members during normal operations.
 
