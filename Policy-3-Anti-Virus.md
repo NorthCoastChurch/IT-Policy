@@ -42,7 +42,7 @@ This policy was established to help prevent infection of North Coast Church comp
 
 **Audience**
 
-This policy applies to all computers connecting to the North Coast Church network for communications, file sharing, etc. This includes, but is not limited to, desktop computers, laptop computers, servers, and any PC based equipment connecting to the North Coast Church network.
+This policy applies to all computers connecting to the North Coast Church network for communications, file sharing, etc. This includes, but is not limited to, desktop computers, laptop computers, servers, and other devices running common operating systems connecting to the North Coast Church network where antivirus is applicable.
 
 ## **Policy Detail**
 
@@ -60,9 +60,9 @@ Each e-mail gateway must utilize North Coast Church IT approved e-mail virus pro
 
 All files on computer devices will be scanned periodically for malware.
 
-Every virus that is not automatically cleaned by the virus protection software constitutes a security incident and must be reported to the Service Desk.
+Every virus that is not automatically cleaned by the virus protection software constitutes a security incident and must be reported to the IT Department.
 
-If deemed necessary to prevent propagation to other networked devices or detrimental effects to the network or data, an infected computer device may be disconnected from the North Coast Church network until the infection has been removed.
+If deemed necessary to prevent propagation to other networked devices or detrimental effects to the network or data, an infected computer device may be remotely erased or disconnected from the North Coast Church network until the infection has been removed.
 
 **Users should:**
 
@@ -70,6 +70,6 @@ If deemed necessary to prevent propagation to other networked devices or detrime
 - Delete spam, chain, or other junk mail without opening or forwarding the item.
 - Never download files from unknown or suspicious sources.
 - Always scan removable media from an unknown or non-North Coast Church source (such as a CD or USB from a vendor) for viruses before using it.
-- Back up critical data on a regular basis and store the data in a safe place. Critical North Coast Church data can be saved to network drives and are backed up on a periodic basis. Contact the North Coast Church IT Department for details.
+- Keep critical business data safe by storing it in IT managed systems and approved locations. Critical North Coast Church data can be saved to network/cloud drives and are backed up on a periodic basis. Contact the North Coast Church IT Department for details.
 
 Because new viruses are discovered every day, users should periodically check the Anti-Virus Policy for updates. The North Coast Church IT Department should be contacted for updated recommendations.

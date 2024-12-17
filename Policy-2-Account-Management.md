@@ -18,7 +18,7 @@ The purpose of this policy is to establish a standard for the creation, administ
 
 **Audience**
 
-## This policy applies to the employees, Directors, volunteers, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties with authorized access to any North Coast Church information system
+## This policy applies to the employees, volunteers, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties with authorized access to any North Coast Church information system
 
 ## **Policy Detail**
 
