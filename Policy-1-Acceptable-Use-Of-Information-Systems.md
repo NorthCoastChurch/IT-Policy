@@ -20,7 +20,7 @@ Internet/Intranet/Extranet-related systems, including, but not limited to, compu
 
 These systems are to be used for business purposes in serving the interests of North Coast Church and of its clients and members during normal operations.
 
-Effective security is a team effort involving the participation and support of every North Coast Church employee, nteer, and affiliate who deals with information and/or information systems.
+Effective security is a team effort involving the participation and support of every North Coast Church employee, volunteer, and affiliate who deals with information and/or information systems.
 
 It is the responsibility of every computer user to know these guidelines and to conduct activities accordingly.
 
@@ -30,7 +30,7 @@ The purpose of this policy is to outline the acceptable use of computer equipmen
 
 **Scope**
 
-This policy applies to the use of information, electronic and computing devices, and network resources to conduct North Coast Church business or interacts with internal networks and business systems, whether owned or leased by North Coast Church, the employee, or a third party.
+This policy applies to the use of information, electronic and computing devices, and network resources to conduct North Coast Church business or interact with internal networks and business systems, whether owned or leased by North Coast Church, the employee, or a third party.
 
 All employees, volunteers, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties, are responsible for exercising good judgment regarding appropriate use of information, electronic devices, and network resources in accordance with North Coast Church policies and standards, local laws, and regulations.
 
@@ -58,7 +58,7 @@ North Coast Church’s IT Department reserves the right to audit networks and sy
 
 North Coast Church’s IT Department reserves the right to remove any non-business related software or files from any system.
 
-Examples of non-business related software or files include, but are not limited to; games, instant messengers, personal email, music files, image files, freeware, and shareware.
+Examples of non-business related software or files include, but are not limited to; games, instant messengers, personal email, personal files (music, image, document or other), freeware, and shareware.
 
 **Security and Proprietary Information**
 
@@ -106,16 +106,16 @@ Under no circumstances is an employee, volunteer, contractor, consultant, or tem
 
 The following activities are prohibited by users, with no exceptions:
 
-- Violations of the rights of any person or company protected by copyright, trade secret, patent, or other intellectual property, or similar laws or regulations, including, but not limited to, the installation or distribution of “pirated” or other software products that are not appropriately licensed for use by North Coast Church.
+- Violations of the rights of any person or company protected by copyright, trade secret, patent, or other intellectual property, or similar laws or regulations, including, but not limited to, the installation, use, or distribution of “pirated” or other software products that are not appropriately licensed for use by North Coast Church.
 - Unauthorized copying of copyrighted material including, but not limited to, digitization and distribution from copyrighted sources, copyrighted music, and the installation of any copyrighted software for which North Coast Church or the end user does not have an active license is prohibited. Users must report unlicensed copies of installed software to IT.
-- Introduction of malicious programs into the network or server (e.g., viruses, worms, Trojan horses, e-mail bombs, etc.).
+- Running or storing programs intended to damage, place excessive load on, or alter how computers or networks operate. (e.g., viruses, worms, Trojan horses, e-mail bombs, etc.).
 - Revealing your account password to others or allowing use of your account by others. This includes family and other household members when work is being done at home.
 - Using a North Coast Church computing asset to actively engage in procuring or transmitting material that is in violation of sexual harassment or hostile workplace laws.
 - Attempting to access any data, electronic content, or programs contained on North Coast Church systems for which they do not have authorization, explicit consent, or implicit need for their job duties.
 - Installing any software, upgrades, updates, or patches on any computer or information system without the prior consent of North Coast Church IT.
 - Installing or using non-standard shareware or freeware software without North Coast Church IT approval.
-- Installing, disconnecting, or moving any North Coast Church owned computer equipment and peripheral devices without prior consent of North Coast Church’s IT Department.
-- Purchasing software or hardware, for North Coast Church use, without prior IT compatibility review.
+- Moving, removing, or disconnecting computers, networking equipment, copiers, and other devices provided by the IT Team without prior authorization.
+- Purchasing software or hardware, for North Coast Church use, without prior IT compatibility review and agreement.
 - Purposely engaging in activity that may;
   - degrade the performance of information systems;
   - deprive an authorized North Coast Church user access to a North Coast Church resource;
@@ -125,6 +125,8 @@ The following activities are prohibited by users, with no exceptions:
 - Circumventing user authentication or security of any host, network, or account.
 - Interfering with, or denying service to, any user other than the employee’s host (for example, denial of service attack).
 - Using any program/script/command, or sending messages of any kind, with the intent to interfere with or disable a user’s terminal session, via any means, locally or via the Internet/Intranet/Extranet.
+- Using a personal email account (ie. gmail.com, yahoo.com, outlook.com, iCloud.com or other) for church business instead of your staff account.
+- Copying work data out of staff accounts to be saved or used elsewhere.
 
 Access to the Internet at home, from a North Coast Church-owned computer, must adhere to all the same policies that apply to use from within North Coast Church facilities. Authorized users must not allow family members or other non-authorized users to access North Coast Church computer systems.
 
