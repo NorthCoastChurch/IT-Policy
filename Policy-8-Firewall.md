@@ -71,14 +71,3 @@ Access to rulesets and configurations and backup media must be restricted to tho
 The IT Department is responsible for implementing and maintaining North Coast Church firewalls, as well as for enforcing and updating this policy. Logon access to the firewall will be restricted to a primary firewall administrator and designees as assigned. Password construction for the firewall will be consistent with the strong password creation practices outlined in the North Coast Church Password Policy.
 
 The specific guidance and direction for information systems security is the responsibility of IT. Accordingly, IT will manage the configuration of the North Coast Church firewalls.
-
-North Coast Church has contracted with a Third Party Vendor to manage the external firewalls. This vendor will be responsible for:
-
-- Retention of the firewall rules
-- Patch Management
-- Review the firewall logs for:
-- System errors
-- Blocked web sites
-- Attacks
-- Sending alerts to the North Coast Church network administrators in the event of attacks or system errors
-- Backing up the firewalls

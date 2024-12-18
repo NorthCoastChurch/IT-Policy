@@ -23,18 +23,16 @@ This policy applies to all personnel or volunteers/directors who have, or are re
 **User Network Passwords**
 
 - Passwords for North Coast Church network access must be implemented according to the following guidelines:
-- Passwords must be changed every 90 days
+- Passwords must be changed if compromised or known by someone other than the owner
 - Passwords must adhere to a minimum length of 10 characters
 - Passwords must contain a combination of alpha, numeric, and special characters, where the computing system permits (!@#$%^&\*\_+=?/~’;’,<>|\\).
-- Passwords must not be easily tied back to the account owner such as:
-- username, social security number, nickname, relative’s names, birth date, etc.
+- Passwords must not be easily tied back to the account owner such as: username, social security number, nickname, relative’s names, birth date, etc.
 - Passwords must not be dictionary words or acronyms
-- Passwords cannot be reused for 1 year
+- Passwords cannot be reused
 
 **System-Level Passwords**
 
 - All system-level passwords must adhere to the following guidelines:
-- Passwords must be changed at least every 6 months
 - All administrator accounts must have 12 character passwords which must contain three of the four items: upper case, lower case, numbers, and special characters.
 - Non-expiring passwords must be documented listing the requirements for those accounts. These accounts need to adhere to the same standards as administrator accounts.
 - Administrators must not circumvent the Password Policy for the sake of ease of use

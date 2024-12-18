@@ -8,7 +8,6 @@ Acceptable use of BYOD at North Coast Church must be managed to ensure that acce
 
 - Employees
 - Contractors
-- Board of Directors
 - Volunteers
 - Related constituents who participate in the BYOD program
 
@@ -41,13 +40,13 @@ This policy is complementary to any other implemented policies dealing specifica
 
 **Audience**
 
-This policy applies to all North Coast Church employees, including full and part-time staff, Board of Directors, volunteers, contractors, freelancers, and other agents who utilize personally-owned mobile devices to access, store, back up, relocate, or access any organization or member-specific data. Such access to this confidential data is a privilege, not a right, and forms the basis of the trust North Coast Church has built with its members, suppliers, and other constituents. Consequently, employment at North Coast Church does not automatically guarantee the initial and ongoing ability to use these devices to gain access to corporate networks and information.
+This policy applies to all North Coast Church employees, including full and part-time staff, volunteers, contractors, freelancers, and other agents who utilize personally-owned mobile devices to access, store, back up, relocate, or access any organization or member-specific data. Such access to this confidential data is a privilege, not a right, and forms the basis of the trust North Coast Church has built with its members, suppliers, and other constituents. Consequently, employment at North Coast Church does not automatically guarantee the initial and ongoing ability to use these devices to gain access to corporate networks and information.
 
 ## **Policy Detail**
 
 This policy applies to:
 
-- Any privately owned wireless and/or portable electronic handheld equipment, hereby referred to as BYOD. North Coast Church grants potential participants of the BYOD program the privilege of purchasing and using a device of their choosing at work for their convenience.
+- Any privately owned wireless and/or portable electronic equipment, hereby referred to as BYOD. North Coast Church grants potential participants of the BYOD program the privilege of purchasing and using a device of their choosing at work for their convenience.
 - Related software that could be used to access corporate resources.
 
 This policy is intended to protect the security and integrity of North Coast Church’s data and technology infrastructure. Limited exceptions to the policy may occur due to variations in devices and platforms.
@@ -59,26 +58,24 @@ The following criteria will be considered initially, and on a continuing basis, 
 - Management’s written permission and certification of the need and efficacy of BYOD for that Employee
 - Sensitivity of data the Audience can access
 - Legislation or regulations prohibiting or limiting the use of a personal smart device for North Coast Church business
-- Must be listed on the Information Technology Department’s list of approved
-- mobile devices
+- Must be listed on the Information Technology Department’s list of approved mobile devices
 - Audience’s adherence to the terms of the Bring Your Own Device Agreement and this policy and other applicable policies
 - Technical limitations
 - Other eligibility criteria deemed relevant by North Coast Church or IT
 
 **Responsibilities of North Coast Church**
 
-- IT will centrally manage the BYOD program and devices including, but not limited to, onboarding approved users, monitoring BYOD connections, and terminating BYOD connections to company resources upon the users leave of employment or service to North Coast Church.
+- IT will centrally manage the BYOD program and devices including, but not limited to, monitoring BYOD connections, and terminating BYOD connections to company resources upon the users leave of employment or service to North Coast Church.
 - IT will manage security policies, network, application, and data access centrally using whatever technology solutions it deems suitable.
 - IT reserves the right to refuse, by non-physical means, the ability to connect mobile devices to North Coast Church and North Coast Church-connected infrastructure. IT will engage in such action if it feels such equipment is being used in such a way that puts North Coast Church’s systems, data, users, and members at risk.
 - IT will maintain a list of approved mobile devices and related software applications and utilities. Devices that are not on this list may not be connected to the North Coast Church infrastructure. To find out if a preferred device is on this list, an individual should contact the North Coast Church IT department Service Desk. Although IT currently allows only listed devices to be connected to the North Coast Church infrastructure, IT reserves the right to update this list in the future.
 - IT will maintain enterprise IT security standards.
 - IT will inspect all mobile devices attempting to connect to the North Coast Church network through an unmanaged network (i.e. the Internet) using technology centrally managed by the IT Department.
-- IT will install the Mobile VPN software required on Smart mobile devices, such as Smartphones, to access the North Coast Church network and data.
 
 **North Coast Church’s IT Department reserves the right to:**
 
-- Install anti-virus software on any BYOD participating device
-- Restrict applications
+- Install anti-virus software on applicable BYOD participating devices
+- Restrict unapproved applications from accessing enterprise data
 - Limit use of network resources
 - Wipe data on lost/damaged devices or upon termination from the BYOD program or North Coast Church employment
 - Properly perform job provisioning and configuration of BYOD participating equipment before connecting to the network
@@ -93,9 +90,9 @@ The following criteria will be considered initially, and on a continuing basis, 
   - Be expected to adhere to the same security protocols when connected with approved BYOD equipment to protect North Coast Church’s infrastructure.
 - North Coast Church data is not to be accessed on any hardware that fails to meet North Coast Church’s established enterprise IT security standards.
   - Ensure that all security protocols normally used in the management of data on conventional storage infrastructure are also applied to BYOD use.
-  - Utilize a device lock with authentication, such as a fingerprint or strong password, on each participating device. Refer to the North Coast Church password policy for additional information.
+  - Utilize a device lock with authentication, such as biometric or strong password, on each participating device. Refer to the North Coast Church password policy for additional information.
   - Employees agree to never disclose their passwords to anyone, particularly to family members, if business work is conducted from home.
-  - Passwords and confidential data should not be stored on unapproved or unauthorized non-North Coast Church devices.
+  - Passwords and confidential data should not be stored on unapproved or unauthorized non-North Coast Church devices, services or applications.
   - Exercise reasonable physical security measures. It is the end users responsibility to keep their approved BYOD equipment safe and secure.
   - A device’s firmware/operating system must be up-to-date in order to prevent vulnerabilities and make the device more stable. The patching and updating processes are the responsibility of the owner.
   - Any non-corporate computers used to synchronize with BYOD equipment will have installed anti-virus and anti-malware software deemed necessary by North Coast Church’s IT Department. Anti-virus signature files must be up to date on any additional client machines – such as a home PC – on which this media will be accessed.
@@ -103,9 +100,8 @@ The following criteria will be considered initially, and on a continuing basis, 
   - If A) any BYOD device is lost or stolen, immediately contact North Coast Church IT; and, if B) any BYOD device is scheduled to be upgraded or exchanged, the user must contact IT in advance. IT will disable the BYOD and delete associated company data. /R
   - BYOD equipment that is used to conduct North Coast Church business will be utilized appropriately, responsibly, and ethically. Failure to do so will result in immediate suspension of that user’s access.
   - Any attempt to contravene or bypass said security implementation will be deemed an intrusion attempt and will be dealt with in accordance with North Coast Church’s overarching security policy.
-  - Usage of location-based services and mobile check-in services, which leverage device GPS capabilities to share real-time user location with external parties, is prohibited within the workplace.
   - The user agrees to and accepts that his or her access and/or connection to North Coast Church’s networks may be monitored to record dates, times, duration of access, etc. This is done to identify unusual usage patterns or other suspicious activity, and to identify accounts/computers that may have been compromised by external parties. In all cases, data protection remains North Coast Church’s highest priority.
-  - Employees, Board of Directors, volunteers, contractors, and temporary staff will not reconfigure mobile devices with any type of North Coast Church owned and installed hardware or software without the express approval of North Coast Church’s IT Department.
+  - Employees, volunteers, contractors, and temporary staff will not reconfigure mobile devices with any type of North Coast Church owned and installed hardware or software without the express approval of North Coast Church’s IT Department.
   - The end user agrees to immediately report, to his/her manager and North Coast Church’s IT Department, any incident or suspected incidents of unauthorized data access, data loss, and/or disclosure of North Coast Church resources, databases, networks, etc.
 
 **Third Party Vendors**
