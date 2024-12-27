@@ -14,7 +14,7 @@ Platform Architecture policies, standards, and guidelines will be used to acquir
 
 ## **Policy Detail**
 
-North Coast Church’s VP of IT has the overall responsibility for ensuring that policies are followed in order to establish contracts and the confidentiality, integrity, and availability of North Coast Church data.
+North Coast Church’s Director of IT has the overall responsibility for ensuring that policies are followed in order to establish contracts and the confidentiality, integrity, and availability of North Coast Church data.
 
 Other IT staff members, under the direction of the Director of IT, are responsible for following the procedures and policies within IT.
 

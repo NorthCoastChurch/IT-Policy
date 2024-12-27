@@ -47,7 +47,7 @@ All purchase requests for hardware, software, computer-related components, inter
 
 **For purchases within IT**
 
-A procurement procedure is maintained by the VP of IT. Purchasing within the IT Department falls under four general categories.
+A procurement procedure is maintained by the Director of IT. Purchasing within the IT Department falls under four general categories.
 
 - **Standard Items**
   - Purchase of items, which have been pre-approved by IT management, that require only a Service Desk request.
@@ -79,7 +79,7 @@ Included asset classes are as follows: Technology equipment, computer hardware, 
 
 **Reimbursable Expenses**
 
-Paying for and/or reimbursing employees will be handled with a completed Expense Report submitted to the VP of IT.
+Paying for and/or reimbursing employees will be handled with a completed Expense Report submitted to the Director of IT.
 
 North Coast Church will also include expenses incurred by employees and will reimburse the following, in addition to standard travel expenses, as indicated in the Employee Reimbursement Policy:
 

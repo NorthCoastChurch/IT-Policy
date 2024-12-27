@@ -1,8 +1,8 @@
+# Antivirus
+
 # **Definitions**
 
-Read the full list of common vulnerabilities here:
-
-<https://purplesec.us/common-network-vulnerabilities/>
+Read the full list of common vulnerabilities here: <https://purplesec.us/common-network-vulnerabilities/>
 
 **Virus**: A program that attaches itself to an executable file or vulnerable application and delivers a payload that ranges from annoying to extremely destructive. A file virus executes when an infected file is accessed. A macro virus infects the executable code embedded in Microsoft Office programs that allows users to generate macros.
 
@@ -62,14 +62,14 @@ All files on computer devices will be scanned periodically for malware.
 
 Every virus that is not automatically cleaned by the virus protection software constitutes a security incident and must be reported to the IT Department.
 
-If deemed necessary to prevent propagation to other networked devices or detrimental effects to the network or data, an infected computer device may be remotely erased or disconnected from the North Coast Church network until the infection has been removed.
+If deemed necessary to prevent propagation to other networked devices or detrimental effects to the network or data, an infected computer/device may be remotely erased or disconnected from the North Coast Church network until the infection has been removed.
 
 **Users should:**
 
-- Avoid viruses by NEVER opening any files or macros attached to an e-mail from an unknown, suspicious, or untrustworthy source. Delete these attachments immediately then remove them from the Trash or Recycle Bin.
-- Delete spam, chain, or other junk mail without opening or forwarding the item.
+- Avoid viruses by NEVER opening email attachments from an unknown, suspicious, or untrustworthy sources. If received right click and report the message.
+- Report spam, chain, or other junk mail without using your mailboxes reporting feature opening or forwarding the item.
 - Never download files from unknown or suspicious sources.
 - Always scan removable media from an unknown or non-North Coast Church source (such as a CD or USB from a vendor) for viruses before using it.
 - Keep critical business data safe by storing it in IT managed systems and approved locations. Critical North Coast Church data can be saved to network/cloud drives and are backed up on a periodic basis. Contact the North Coast Church IT Department for details.
 
-Because new viruses are discovered every day, users should periodically check the Anti-Virus Policy for updates. The North Coast Church IT Department should be contacted for updated recommendations.
+Because new viruses and vulnerabilities are discovered hourly, users should periodically check their devices for updates.

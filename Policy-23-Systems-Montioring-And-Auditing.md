@@ -16,7 +16,7 @@ This policy applies to all information systems and information system components
 
 ## **Policy Detail**
 
-Information systems will be configured to record login/logout and all administrator activities into a log file. Additionally, information systems will be configured to notify administrative personnel if inappropriate, unusual, and/or suspicious activity is noted. Inappropriate, unusual, and/or suspicious activity will be fully investigated by appropriate administrative personnel and findings reported to the VP of IT or COO.
+Information systems will be configured to record login/logout and all administrator activities into a log file. Additionally, information systems will be configured to notify administrative personnel if inappropriate, unusual, and/or suspicious activity is noted. Inappropriate, unusual, and/or suspicious activity will be fully investigated by appropriate administrative personnel and findings reported to the Director of IT or COO.
 
 Information systems are to be provided with sufficient primary (on-line) storage to retain 30-days’ worth of log data and sufficient secondary (off-line) storage to retain one year’s worth of data. If primary storage capacity is exceeded, the information system will be configured to overwrite the oldest logs. In the event of other logging system failures, the information system will be configured to notify an administrator.
 

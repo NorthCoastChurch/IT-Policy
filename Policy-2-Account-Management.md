@@ -1,3 +1,5 @@
+# Account Management
+
 # **Definitions**
 
 **Account**: Any combination of a User ID (sometime referred to as a username) and a password that grants an authorized user access to a computer, an application, the network, or any other information or technology resource.
@@ -12,19 +14,19 @@ Computer accounts are the means used to grant access to North Coast Church’s i
 
 This means that creating, controlling, and monitoring all computer accounts is extremely important to an overall security program.
 
-**Purpose**
+## **Purpose**
 
 The purpose of this policy is to establish a standard for the creation, administration, use, and removal of accounts that facilitate access to information and technology resources at North Coast Church.
 
-**Audience**
+## **Audience**
 
-## This policy applies to the employees, volunteers, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties with authorized access to any North Coast Church information system
+This policy applies to the employees, volunteers, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties with authorized access to any North Coast Church information system
 
 ## **Policy Detail**
 
 **Accounts**
 
-- All accounts created must have an associated written request and signed management approval that is appropriate for the North Coast Church system or service.
+- All accounts created must have an associated written request and management approval that is appropriate for the North Coast Church system or service.
 - All accounts must be uniquely identifiable using the assigned username.
 - Shared accounts on North Coast Church information systems are not permitted.
 - Reference the Employee Access During Leave of Absence Policy for removing an employee’s access while on a leave of absence or vacation.

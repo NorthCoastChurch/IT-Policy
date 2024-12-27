@@ -1,3 +1,5 @@
+# Clean Desk
+
 # **Overview**
 
 North Coast Church is committed to protecting the privacy of its employees and members and shall protect the confidentiality of nonpublic information consistent with state and federal laws.
@@ -12,7 +14,7 @@ Because of the risk of being compromised, confidential information should always
 
 ## **Policy Detail**
 
-To maintain the security and privacy of employees’ and members’ personal information, North Coast Church employees should observe the “clean desk” rule. All employees should take appropriate actions to prevent unauthorized persons from having access to member information, applications, or data. Employees are also required to make a conscientious check of their surrounding work environment to ensure that there will be no loss of confidentiality to data media or documents.
+To maintain the security and privacy of employees’ and members’ personal information, North Coast Church employees should observe the “clean desk” rule. All employees should take appropriate actions to prevent unauthorized persons from having access to member information, applications, or data. Employees are also required to make a conscientious check of their surrounding work environment to ensure that there will be no loss of confidentiality to data media or documents. Employees must remove sensitive information from their desks and lock it away when they leave their workspace.
 
 The clean desk policy applies to:
 

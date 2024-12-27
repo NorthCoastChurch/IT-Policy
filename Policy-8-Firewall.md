@@ -54,7 +54,7 @@ The firewalls will protect against:
 - Denial-of-Service (DoS) attacks - the goal is to flood the victim with overwhelming amounts of traffic and the attacker does not care about receiving responses to the attack packets.
 - Any network information utility that would reveal information about the North Coast Church domain.
 
-A change control process is required before any firewall rules are modified. Prior to implementation, the Third Party Vendor and North Coast Church network administrators are required to have the modifications approved by the Director of IT or the VP of IT. All related documentation is to be retained for three (3) years.
+A change control process is required before any firewall rules are modified. Prior to implementation, the Third Party Vendor and North Coast Church network administrators are required to have the modifications approved by the Director of IT. All related documentation is to be retained for three (3) years.
 
 All firewall implementations must adopt the position of “least privilege” and deny all inbound traffic by default. The ruleset should be opened incrementally to only allow permissible traffic.
 
