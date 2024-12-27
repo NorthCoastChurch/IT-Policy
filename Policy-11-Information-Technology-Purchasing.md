@@ -16,7 +16,6 @@ The scope of this policy includes, but is not limited to, the following North Co
 - Software running on the devices mentioned above
 - Peripheral equipment, such as printers and scanners
 - Cables or connectivity-related devices
-- Audio-visual equipment, such as projectors and cameras
 
 ## This policy extends to technical services, such as off-site disaster recovery solutions and Internet Service Providers (ISPs), as well as professional services, such as consultants and legal professionals hired through the IT Department
 

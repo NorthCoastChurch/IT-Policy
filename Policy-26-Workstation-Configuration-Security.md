@@ -25,9 +25,9 @@ This policy applies to all North Coast Church company-owned, company operated, o
 
 **Responsibilities**
 
-North Coast Church’s VP of IT has the overall responsibility for the confidentiality, integrity, and availability of North Coast Church data.
+North Coast Church’s Director of IT has the overall responsibility for the confidentiality, integrity, and availability of North Coast Church data.
 
-Other IT staff members, under the direction of the VP of IT, are responsible for following the procedures and policies within IT.
+Other IT staff members, under the direction of the Director of IT, are responsible for following the procedures and policies within IT.
 
 **Supported Technology /R**
 
@@ -38,7 +38,7 @@ All established standards and guidelines for the North Coast Church IT environme
 The following outlines North Coast Church’s minimum system requirements for workstation equipment.
 
 - Operating System (OS) configuration must be in accordance with approved procedures.
-- Unused services and applications must be disabled, except where approved by the VP of IT.
+- Unused services and applications must be disabled, except where approved by the Director of IT.
 - All patch management to workstations will be monitored through reporting with effective remediation procedures. North Coast Church has deployed a patch management process; reference the Patch Management Policy.
 - All workstations joined to the North Coast Church domain will automatically receive a policy update configuring the workstation to obtain future updates from our desktop management system.
 - All systems within North Coast Church are required to utilize anti-virus, malware, and data leakage protection. IT will obtain alerts of infected workstations and perform certain remediation tasks.
