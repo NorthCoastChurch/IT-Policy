@@ -85,7 +85,7 @@ There are certain uses of AI systems that are more high risk than others. As a g
 - **Personal Data in AI Systems:** AI should be used with extreme caution when inputting any personal data of an individual into a closed AI system (it is prohibited to put any personal data into an open AI system).
 - **Screening Job Candidates:** AI should be used with caution when screening any job applicants to ensure it does not adversely impact protected class members or introduce any bias. Equity and inclusion issues surrounding AI use in job screening are a potential source of litigation.
 - **Personnel Decisions:** AI should be used with caution for any use related to making decisions on promotions, retention, or similar personnel such decisions. Extreme caution should be utilized to ensure that biases (including biases found in existing data sets) are avoided.
-- **Enrollment** **Decisions:** Extreme caution should be utilized if using AI in any manner related to evaluating potential candidates for admission into a university, academy, internship or apprenticeship program, or any other North Coast Church program.
+- **Enrollment** **Decisions:** Extreme caution should be utilized if using AI in any manner related to evaluating potential candidates for admission into a voluenteer posistion, internship, or any other North Coast Church function.
 - **Assessment of Students:** Any assessment of students in educational or vocational training institutions is considered high risk. Accordingly, extreme caution should be utilized before using any AI system intended to assess or evaluate any student participating in a course, taking an exam, or other evaluation or assessment.
 
 # **General AI System Use Standards and Use Approval**
@@ -97,7 +97,7 @@ Except for AI Embedded Tools in approved software, all uses of AI systems must b
 - **Transparent:** There must be clear objectives for the use of an AI system and documented oversight of such use, which is recorded and captured for institutional knowledge. Disclosures of the use of AI in any AI-assisted content generation must be made when required by law or contract, or when required by the North Coast Church.
 - **Necessary:** The use of AI systems must be for a valid business purpose to improve North Coast Church’s business efficiencies and support the organization’s mission. The use of AI is not a substitute for human critical thinking or expertise and should not require North Coast Church to incur an unnecessary expense without any true benefit.
 
-Prior to submitting a request to the IT Department for the use of an AI system, a requester should first obtain the approval of his or her manager. In addition, in evaluating whether to make a request, the requester should ensure that the AI system use, if approved, would conform with the guidelines in this Policy, prior to submitting such request. Requests for the use of an AI system should follow the SOP here \[INSERT LINK\].
+Prior to submitting a request to the IT Department for the use of an AI system, a requester should first obtain the approval of his or her manager. In addition, in evaluating whether to make a request, the requester should ensure that the AI system use, if approved, would conform with the guidelines in this Policy, prior to submitting such request.
 
 # **Training**
 
