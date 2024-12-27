@@ -1,10 +1,12 @@
+# Hardware and Electronic Media Disposal
+
 # **Definitions**
 
 **Beyond reasonable repair**: Refers to any and all equipment whose condition requires fixing or refurbishing that is likely to cost as much or more than total replacement.
 
 **Chain of Custody (CoC)**: Refers to the chronological documentation of the custody, transportation, or storage of evidence to show it has not been tampered with prior to destruction.
 
-**isposition**: Refers to the reselling, reassignment, recycling, donating, or disposal of IT equipment through responsible, ethical, and environmentally sound means.
+**Disposition**: Refers to the reselling, reassignment, recycling, donating, or disposal of IT equipment through responsible, ethical, and environmentally sound means.
 
 **Non-leased**: Refers to any and all IT assets that are the sole property of North Coast Church, that is, equipment not rented, leased, or borrowed from a third-party supplier or partner company.
 
@@ -32,11 +34,12 @@ coordinated by North Coast Church’s IT Department. The IT Department is respon
 
 It is the responsibility of any employee of North Coast Church’s IT Department, with the appropriate authority, to ensure that IT assets are disposed of according to the methods in the Hardware and Electronic Media Disposal Procedure. It is imperative that all dispositions are done appropriately, responsibly, and according to IT lifecycle standards, as well as with North Coast Church’s resource planning in mind. Hardware asset types and electronic media that require secure disposal include, but are not limited to, the following:
 
-- Computers (desktops and laptops)
+- Computers (desktops, laptops and tablets)
 - Printers
 - Handheld devices
 - Servers
-- Networking devices (hubs, switches, bridges, and routers)
+- Networking devices (hubs, switches, bridges, and routers, firewalls, etc.)
+- Security Devices (Cameras, Card Readers, etc.)
 - Floppy disks
 - Backup tapes
 - CDs and DVDs
