@@ -109,11 +109,10 @@ The following activities are prohibited by users, with no exceptions:
 - Violations of the rights of any person or company protected by copyright, trade secret, patent, or other intellectual property, or similar laws or regulations, including, but not limited to, the installation, use, or distribution of “pirated” or other software products/services that are not appropriately licensed for use by North Coast Church.
 - Unauthorized copying of copyrighted material including, but not limited to, digitization and distribution from copyrighted sources, copyrighted music, and the installation of any copyrighted software for which North Coast Church or the end user does not have an active license is prohibited. Users must report unlicensed copies of installed software to IT.
 - Downloading, storing or running software intended to damage, place excessive load on, or alter how computers or networks operate. (e.g., viruses, worms, Trojan horses, e-mail/zip bombs, Malware, security testing tools, etc.).
-- Reveal your account password to others, Sharing login information, using any account that does not belong to you, or allowing others to use your computer or account. This includes family and other household members when work is being done at home.
+- Revealing your account password to others, Sharing login information, using any account that does not belong to you, or allowing others to use your computer or account. This includes family and other household members when work is being done at home.
 - Using a North Coast Church computing asset to actively engage in procuring or transmitting material that is in violation of sexual harassment or hostile workplace laws.
 - Attempting to access any data, electronic content, or software contained on North Coast Church systems for which they do not have authorization, explicit consent, or implicit need for their job duties.
 - Installing any software, upgrades, updates, or patches on any computer or information system without the prior consent or direction from North Coast Church IT.
-- Installing or using non-standard shareware or freeware software without North Coast Church IT approval.
 - Moving, removing, or disconnecting computers, networking equipment, copiers, or other devices provided by the IT Department without prior authorization.
 - Making changes to network equipment or setting up new networks or network equipment without prior authorization from the IT Department.
 - Purchasing software or hardware, for North Coast Church use, without prior IT compatibility review and authorization.
