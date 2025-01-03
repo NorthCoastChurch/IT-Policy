@@ -1,3 +1,5 @@
+# Information Technology Purchasing
+
 # **Overview**
 
 Information Technology purchasing at North Coast Church must be managed to ensure compatibility and to control costs of the technology and services requested.
@@ -12,36 +14,29 @@ Purchases of technology and technical services for North Coast Church must be ap
 
 The scope of this policy includes, but is not limited to, the following North Coast Church technology resources:
 
-- Desktops, laptops, smartphones/PDAs, cell phones, tablets, TCDs, TCRs, and servers
+- Desktops, laptops, tablets, smartphones, point of sale devices, "internet of things" devices, servers, networking equipment, and any device involved in how information is created, processed, stored or displayed at North Coast Church.
 - Software running on the devices mentioned above
+- Software as a service (SAAS) and app subscriptions
 - Peripheral equipment, such as printers and scanners
 - Cables or connectivity-related devices
 
-## This policy extends to technical services, such as off-site disaster recovery solutions and Internet Service Providers (ISPs), as well as professional services, such as consultants and legal professionals hired through the IT Department
+This policy extends to technical services, such as off-site disaster recovery solutions and Internet Service Providers (ISPs), as well as professional services, such as consultants and legal professionals hired through the IT Department.
 
-## These include, but are not limited to, the following
+**These include, but are not limited to, the following:**
 
-## Professionals or firms contracted for application development and maintenance
-
-## Web services provided by a third party
-
-## Consulting professionals
-
-## Recruiting services
-
-## Training services
-
-## Disaster recovery services
-
-## Hosted telephone services
-
-## Telephone network services
-
-## Data network services
+- Professionals or firms contracted for application development and maintenance
+- Web services provided by a third party
+- Consulting professionals
+- Recruiting services
+- Training services
+- Disaster recovery services
+- Hosted telephone services
+- Telephone network services
+- Data network services
 
 ## **Policy Detail**
 
-All hardware, software, or components purchased with North Coast Church funds are the property of North Coast Church. This also includes all items purchased using a personal credit card, for which the employee is later reimbursed.
+All hardware, software, or components purchased with North Coast Church funds are the property of North Coast Church. This also includes all items purchased using a personal credit card, for which the employee is later reimbursed. Reimbursement for items covered in this policy is subject to IT approval.
 
 All purchase requests for hardware, software, computer-related components, internet services, or third-party electronic services must be submitted to the IT Department, via the Service Desk, for final purchase approval. If the requested item is already in inventory, then it will be made available to the requestor, assuming that it meets organizational unit goals.
 
@@ -59,7 +54,7 @@ A procurement procedure is maintained by the Director of IT. Purchasing within t
   - Individuals requesting non-standard items for purchase can suggest a potential vendor, if a pre-existing relationship exists between that vendor and North Coast Church.
 - **Capital Expenses**
   - Purchase of non-standard capitalized hardware, software, or equipment.
-  - Capitalized expenditures, defined as hardware, software, or equipment above $2,500.00 or as specified in the North Coast Church Fixed Asset Policy, which are capitalized by North Coast Church, must go through the CFO and CEO for approval. These purchases may only be requisitioned by department managers. The purchase selection process for these expenditures will be evaluated by Senior Management.
+  - Capitalized expenditures, defined as hardware, software, or equipment above $5000.00 (amount subject to change, specified by Finance Team) or as specified in the North Coast Church Fixed Asset Policy, which are capitalized by North Coast Church, must go through the CFO and COO for approval. These purchases may only be requisitioned by department managers. The purchase selection process for these expenditures will be evaluated by Senior Management.
 - **Employee Purchasing**
   - Items that do not require any purchase approval.
 
@@ -73,15 +68,6 @@ Certain classes of North Coast Church assets, as defined below (“Qualified Ass
 
 Included asset classes are as follows: Technology equipment, computer hardware, peripherals, and other items purchased by North Coast Church IT or managed by same that are
 
-- semi-permanent in their end-user assignment (example: specific person, department) or purpose (example: loaner laptop, projector) AND
+- semi-permanent in their end-user assignment (example: specific person, department) or purpose (example: loaner laptop, check-in hardware) AND
 - are valued at greater than $300 AND
 - are not high-turnover or frequently moved devices (example: small peripherals such as mice and ID scanners)
-
-**Reimbursable Expenses**
-
-Paying for and/or reimbursing employees will be handled with a completed Expense Report submitted to the Director of IT.
-
-North Coast Church will also include expenses incurred by employees and will reimburse the following, in addition to standard travel expenses, as indicated in the Employee Reimbursement Policy:
-
-- Standard item peripheral hardware
-- Business related shipping/courier expenses
