@@ -74,7 +74,7 @@ All mobile and computing devices that connect to the internal network must compl
 - Password
 - Cloud Computing
 - Wireless (Wi-Fi) Connectivity
-- Telecommuting
+- Telecommuting (Work from Home)
 
 System level and user level passwords must comply with the Password Policy. Authorized users must not share their North Coast Church login ID(s), account(s), passwords, Personal Identification Numbers (PIN), Security Tokens (i.e. Smartcard), or similar information or devices used for identification and authentication purposes.
 
@@ -108,20 +108,20 @@ The following activities are prohibited with no exceptions:
 - Using IT-provided or approved platforms, apps, services, resources, or assets outside of their intended use-cases. 
 
 - Purposely engaging in activity that may;
-  - Violate of the rights of any person or company protected by: copyright, terms of service, trade secret, patent, or other intellectual property, or similar laws or regulations. This includes, but not limited to, the procurement, storage, installation, use, or distribution of products or services that are not appropriately licensed for use by North Coast Church.
-  - Interfere with the regular operation of computers, networks, software, or other IT provisioned technology or services.
+  - Violate of the rights of any person or company protected by: copyright, terms of service, trade secret, patent, or other intellectual property, or similar laws or regulations. This includes, but not limited to, the procurement, storage, installation, use, or distribution of products or services that are not appropriately licensed for use by North Coast Church;
+  - Interfere with the regular operation of computers, networks, software, or other IT provisioned technology or services;
   - Degrade the performance of information systems;
   - Deprive an authorized North Coast Church user access to a North Coast Church resource;
   - Obtain extra resources beyond those allocated;
-  - Circumvent North Coast Church security measures, uncover security loopholes, or gain unauthorized access to computer systems or data.
-  - Attempt to hide or obfuscate the activity or identity of computers, network traffic, devices, software, data, or accounts.
-  - Produce, procure, or transmit material that is in violation of sexual harassment or hostile workplace laws.
+  - Circumvent North Coast Church security measures, uncover security loopholes, or gain unauthorized access to computer systems or data;
+  - Attempt to hide or obfuscate the activity or identity of devices, computers, network traffic, software, or accounts;
+  - Produce, procure, or transmit material that is in violation of sexual harassment or hostile workplace laws;
     
 **Staff Account Misuse**
 - Revealing your account password to others, sharing login information, using any account that does not belong to you, or allowing others to use your computer, account or access. This includes family and other household members when work is being done at home.
 - Using your staff account or access to church data for non-ministry use.
-- Copying North Coast Church data out of staff accounts or other approved storage locations, systems, or applications to be stored or used elsewhere.
-- Attempting to access any data, electronic content, or system for which you do not have authorization, explicit consent, or implicit need to access in order to preform your assigned job duties.
+- Copying North Coast Church data from staff accounts or approved storage locations, systems, and applications to be stored or used elsewhere.
+- Attempting to access any data, electronic content, or system for which you do not have authorization, explicit consent, or implicit need to access in order to perform your assigned job duties.
 - Attempting to monitor or tamper with another user's communications.
 - Attempting to read, copy, alter, or delete another user's files, settings, or software without the owner's consent.
 
