@@ -60,7 +60,7 @@ The following principles must be followed when considering using an AI system at
 There are certain uses of AI that are prohibited. Unless otherwise approved by the IT Department, North Coast Church Representatives are prohibited from using AI systems for any of the following activities at any time:
 
 - Conducting political lobbying activities is prohibited. Lobbying is defined as any action aimed at influencing a Government, Government Official, or Government Entity for any reason.
-- Using AI systems to identify or categorize students, candidates, employees, contractors, volunteers, or other affiliated entities based on protected class status is prohibited.
+- Using AI systems to identify or categorize students, candidates, employees, contractors, volunteers, or other affiliated persons or entities based on protected class status is prohibited.
 - Entering trade secrets, confidential information, or personal data about any individual into an open AI system.
 - Entering any sensitive information about an individual into any AI system. “Sensitive information” includes medical, financial, political affiliation, racial or ethnic origin, religious beliefs, gender, sexual orientation, disability status, or any other part of a person’s life someone would want to keep private.
 - Using an AI system to obtain legal advice, including, but not limited to, creating policies for internal use or to provide to third parties.
@@ -102,6 +102,6 @@ All North Coast Church Representatives who interact with AI systems must be trai
 
 # **6. Reporting Non-Compliance**
 
-North Coast Church directors, managers, employees, and agents aware of any conduct that may violate this Policy have a responsibility to report it. Individuals are encouraged to make reports through normal reporting relationships beginning with their manager. All reports of suspected misconduct or non-compliance will be investigated by the IT Department, Legal Counsel, Human Resources, or other appropriate parties. Unless acting in bad faith, North Coast Church employees will not be subject to reprisals for reporting potential violations.
+North Coast Church directors, managers, employees, volunteers, and agents aware of any conduct that may violate this Policy have a responsibility to report it. Individuals are encouraged to make reports through normal reporting relationships beginning with their manager. All reports of suspected misconduct or non-compliance will be investigated by the IT Department, Legal Counsel, Human Resources, or other appropriate parties. Unless acting in bad faith, North Coast Church employees will not be subject to reprisals for reporting potential violations.
 
 If North Coast Church determines that a North Coast Church Representative has failed to comply with this Policy after an investigation concludes, then the North Coast Church Representative will be subject to disciplinary action, up to and including termination.
