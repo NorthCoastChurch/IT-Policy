@@ -2,7 +2,7 @@
 
 # **Definitions**
 
-**Information Systems**: All electronic means used to create, store, access, transmit, and use data, information, or communications in the conduct of administrative, instructional, research, or service activities.
+**Information Systems**: All electronic means used to create, store, access, transmit and use data, information, or communications in the conduct of administrative, instructional, research, or service activities.
 
 Additionally, it is the procedures, equipment, facilities, software, and data that are designed, built, operated, and maintained to create, collect, record, process, store, retrieve, display, and transmit information.
 
@@ -58,7 +58,7 @@ North Coast Church’s IT Department reserves the right to audit networks and sy
 
 North Coast Church’s IT Department reserves the right to remove any non-business related software or files from any system.
 
-Examples of non-business related software or files include, but are not limited to; games, instant messengers, personal email, personal files (music, image, document or other), unapproved software.
+Examples of non-business related software or files include, but are not limited to; games, instant messengers, personal email, personal files (music, image, document or other), unapproved software applications.
 
 **Security and Proprietary Information**
 
@@ -78,19 +78,15 @@ All mobile and computing devices that connect to the internal network must compl
 
 System level and user level passwords must comply with the Password Policy. Authorized users must not share their North Coast Church login ID(s), account(s), passwords, Personal Identification Numbers (PIN), Security Tokens (i.e. Smartcard), or similar information or devices used for identification and authentication purposes.
 
-Providing access to another individual, either deliberately or through failure to secure its access, is prohibited.
-
 Authorized users may access, use, or share North Coast Church proprietary information only to the extent it is authorized and necessary to fulfill the users assigned job duties.
-
-All PCs, laptops, and workstations should be secured with a password-protected screensaver with the automatic activation feature set at 10 minutes or less.
 
 All users must lock their devices, when the device will be unattended for any amount of time. Employees must logout of computers, after their use.
 
 North Coast Church proprietary information stored on electronic and computing devices, whether owned or leased by North Coast Church, the employee, or a third party, remains the sole property of North Coast Church. All proprietary information must be protected through legal or technical means.
 
-All users are responsible for promptly reporting the theft, loss, or unauthorized disclosure of North Coast Church proprietary information to their immediate supervisor and/or the IT Department.
+All users are responsible for promptly reporting the theft, loss, or unauthorized disclosure of North Coast Church proprietary information to their immediate supervisor and the IT Department.
 
-All users must report any weaknesses in North Coast Church computer security and any incidents of possible misuse or violation of this agreement to their immediate supervisor and/or the IT Department.
+All users must report any weaknesses in North Coast Church computer security and any incidents of possible misuse or violation of this agreement to the IT Department.
 
 Users must not divulge network or connectivity information to anyone without prior consent of the North Coast Church IT Department.
 
@@ -102,34 +98,40 @@ Users must not intentionally access, create, store, or transmit material which N
 
 Under no circumstances is an employee, volunteer, contractor, consultant, or temporary employee of North Coast Church authorized to engage in any activity that is illegal under local, state, federal, or international law while utilizing North Coast Church-owned resources.
 
-**System and Network Activities**
+**Prohibited System and Network Activities**
 
-The following activities are prohibited by users, with no exceptions:
+The following activities are prohibited with no exceptions:
 
-- Violations of the rights of any person or company protected by copyright, trade secret, patent, or other intellectual property, or similar laws or regulations, including, but not limited to, the installation, use, or distribution of “pirated” or other software products/services that are not appropriately licensed for use by North Coast Church.
-- Unauthorized copying of copyrighted material including, but not limited to, digitization and distribution from copyrighted sources, copyrighted music, and the installation of any copyrighted software for which North Coast Church or the end user does not have an active license is prohibited. Users must report unlicensed copies of installed software to IT.
-- Downloading, storing or running software intended to damage, place excessive load on, or alter how computers or networks operate. (e.g., viruses, worms, Trojan horses, e-mail/zip bombs, Malware, security testing tools, etc.).
-- Revealing your account password to others, Sharing login information, using any account that does not belong to you, or allowing others to use your computer or account. This includes family and other household members when work is being done at home.
-- Using a North Coast Church computing asset to actively engage in procuring or transmitting material that is in violation of sexual harassment or hostile workplace laws.
-- Attempting to access any data, electronic content, or software contained on North Coast Church systems for which they do not have authorization, explicit consent, or implicit need for their job duties.
-- Installing any software, upgrades, updates, or patches on any computer or information system without the prior consent or direction from North Coast Church IT.
-- Moving, removing, or disconnecting computers, networking equipment, copiers, or other devices provided by the IT Department without prior authorization.
-- Making changes to network equipment or setting up new networks or network equipment without prior authorization from the IT Department.
-- Purchasing software or hardware, for North Coast Church use, without prior IT compatibility review and authorization.
+- Unauthorized use of copyrighted material including, but not limited to, digitization and distribution from copyrighted sources, the installation or use of any copyrighted content, software, or service for which North Coast Church or the end user does not have an active license is prohibited.
+- Purchasing hardware, software, or services for North Coast Church use without prior IT review and authorization.
+- Using personal/unapproved communication platforms, apps, or services to preform assigned job duties instead of IT approved platforms, apps, and services.
+- Using IT-provided or approved platforms, apps, services, resources, or assets outside of their intended use-cases. 
+
 - Purposely engaging in activity that may;
-  - degrade the performance of information systems;
-  - deprive an authorized North Coast Church user access to a North Coast Church resource;
-  - obtain extra resources beyond those allocated; or
-- Circumventing North Coast Church computer security measures, attempting to uncover security loopholes or gain unauthorized access to computer systems or data.
-- Downloading, installing, or running security programs or utilities that reveal passwords, private information, or exploit weaknesses in the security of a system. For example, North Coast Church users must not run spyware, adware, password cracking programs, packet sniffers, port scanners, or any other non-approved programs on North Coast Church information systems. The North Coast Church IT Department is the only department authorized to perform these actions.
+  - Violate of the rights of any person or company protected by: copyright, terms of service, trade secret, patent, or other intellectual property, or similar laws or regulations. This includes, but not limited to, the procurement, storage, installation, use, or distribution of products or services that are not appropriately licensed for use by North Coast Church.
+  - Interfere with the regular operation of computers, networks, software, or other IT provisioned technology or services.
+  - Degrade the performance of information systems;
+  - Deprive an authorized North Coast Church user access to a North Coast Church resource;
+  - Obtain extra resources beyond those allocated;
+  - Circumvent North Coast Church security measures, uncover security loopholes, or gain unauthorized access to computer systems or data.
+  - Attempt to hide or obfuscate the activity or identity of computers, network traffic, devices, software, data, or accounts.
+  - Produce, procure, or transmit material that is in violation of sexual harassment or hostile workplace laws.
+    
+**Staff Account Misuse**
+- Revealing your account password to others, sharing login information, using any account that does not belong to you, or allowing others to use your computer, account or access. This includes family and other household members when work is being done at home.
+- Using your staff account or access to church data for non-ministry use.
+- Copying North Coast Church data out of staff accounts or other approved storage locations, systems, or applications to be stored or used elsewhere.
+- Attempting to access any data, electronic content, or system for which you do not have authorization, explicit consent, or implicit need to access in order to preform your assigned job duties.
 - Attempting to monitor or tamper with another user's communications.
-- Reading, copying, changing, or deleting another user's files, software or settings without the owner's consent.
-- Obfuscating the activity or identity of computers, network connected devices, software, data, or accounts.
-- Connecting personal computers or devices to North Coast's internal networks or computers. You may use our guest networks for personal devices if they are compatible.
-- If issued a staff account, using a personal email account (ie. gmail.com, yahoo.com, outlook.com, iCloud.com or other) for church ministry/business communications instead of your @northcoastchurch.com staff account.
-- Using your staff account or access for non-ministry use.
-- Copying work data out of staff accounts or other approved storage systems to be saved or used elsewhere.
-- Knowingly performing any act that may interfere with the regular operation of computers, networks, software, or other technology.
+- Attempting to read, copy, alter, or delete another user's files, settings, or software without the owner's consent.
+
+**Computer and IT Equipment Misuse**
+- Connecting personal computers or devices to North Coast's internal networks or computers. You may use our guest wireless network for personal devices if they are compatible.
+- Moving, removing, or disconnecting provisioned computers, networking equipment, copiers, or other devices provided by the IT Department without prior authorization.
+- Making changes to network equipment or setting up new networks (hardware or software) without prior IT review and authorization.
+- Installing any software, upgrades, updates, or patches on any computer, device or information system without the prior consent or direction from the IT Department.
+- Downloading, storing, or running software intended to damage, place excessive load on, or alter how computers or networks operate. (e.g., Viruses, Worms, Trojan horses, Malware, Security testing tools, VPN Software/configurations, etc.).
+- Downloading, installing, or running security programs or utilities that reveal passwords, private information, or exploit weaknesses in the security of a system. For example, North Coast Church users must not run spyware, adware, password cracking programs, packet sniffers, port scanners, or any other non-approved programs on North Coast Church information systems. The North Coast Church IT Department is the only department authorized to perform these actions.
 
 Access to the Internet at home, from a North Coast Church-owned computer, must adhere to all the same policies that apply to use from within North Coast Church facilities. Authorized users must not allow family members or other non-authorized users to access North Coast Church systems or assigned devices.
 
