@@ -1,4 +1,4 @@
-# Acceptable Use Of Information Systems
+# Acceptable Use of Information Systems
 
 # **Definitions**
 
@@ -80,7 +80,7 @@ System level and user level passwords must comply with the Password Policy. Auth
 
 Authorized users may access, use, or share North Coast Church proprietary information only to the extent it is authorized and necessary to fulfill the users assigned job duties.
 
-All users must lock their devices, when the device will be unattended for any amount of time. Employees must logout of computers, after their use.
+All users must lock their devices when the device will be unattended for any amount of time. Employees must log out of computers after their use.
 
 North Coast Church proprietary information stored on electronic and computing devices, whether owned or leased by North Coast Church, the employee, or a third party, remains the sole property of North Coast Church. All proprietary information must be protected through legal or technical means.
 
@@ -126,7 +126,7 @@ The following activities are prohibited with no exceptions:
 - Attempting to read, copy, alter, or delete another user's files, settings, or software without the owner's consent.
 
 **Computer and IT Equipment Misuse**
-- Connecting personal computers or devices to North Coast's internal networks or computers. You may use our guest wireless network for personal devices if they are compatible.
+- Connecting personal computers or devices to North Coast Church's internal networks or computers. You may use our guest wireless network for personal devices if they are compatible.
 - Moving, removing, or disconnecting provisioned computers, networking equipment, copiers, or other devices provided by the IT Department without prior authorization.
 - Making changes to network equipment or setting up new networks (hardware or software) without prior IT review and authorization.
 - Installing any software, upgrades, updates, or patches on any computer, device or information system without the prior consent or direction from the IT Department.
