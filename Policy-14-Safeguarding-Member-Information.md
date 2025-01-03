@@ -1,11 +1,8 @@
+# Safeguarding Member Information
+
 # **Definitions**
 
-_These terms are defined by the_ **_NCUA Part 748_**_._
-
-**Member**: An individual who has an established, ongoing relationship with North Coast Church. This includes both members and non-members who have co-signed on loans. Examples of non-members include, but are not limited to, the following:
-
-- Non-member joint account holders
-- Non-members holding an account in a state-chartered credit union under state law
+**Member**: An individual who has an established, ongoing relationship with North Coast Church or its ministries. This includes both members and guests who have visited North Coast Church in person or by digital means through the internet.
 
 **Service provider**: A third party that maintains, processes, or otherwise is permitted access to member information while performing services for North Coast Church.
 
@@ -17,7 +14,6 @@ _These terms are defined by the_ **_NCUA Part 748_**_._
 
 This policy addresses the following topics:
 
-- Board Involvement
 - Risk Assessment
 - Management and Control of Risk
 - Member Information Security Controls
@@ -48,9 +44,7 @@ North Coast Church will not gather, collect, or maintain any information about i
 
 North Coast Church does not sell or provide any member information to third parties, including list services, telemarketing firms, or outside companies for independent use.
 
-The Board of Directors must approve the Safeguarding Member Information Policy, required by NCUA Part 748 Appendix A.
-
-North Coast Church’s Information Security Officer is responsible for annually reviewing the program, making any needed adjustments, and coordinating staff training. North Coast Church Management is responsible for ensuring that its departments comply with the requirements of the program.
+North Coast Church’s Director of IT is responsible for annually reviewing the program, making any needed adjustments, and coordinating staff training. North Coast Church Management is responsible for ensuring that its departments comply with the requirements of the program.
 
 **Information Security Program**
 
@@ -60,39 +54,29 @@ Management is responsible for developing, implementing, and maintaining an effec
 - Protect against any anticipated threats or hazards to the security or integrity of such records
 - Protect against unauthorized access to, or use of, such records or information that would result in substantial harm or inconvenience to any member
 
-Management shall report to the Board of Directors, at least annually, on the current status of North Coast Church’s Information Security Program. The Board of Directors will also be notified of any security breaches or violations and the management team’s response and recommendations for changes in the Information Security Program.
-
-**Board Involvement**
-
-On an annual basis, the Board of Directors is required to provide the NCUA and DFI Regional Director with a certification of North Coast Church’s compliance with NCUA Part 748. The certification is contained in the Report of Officials submitted after the annual election of officials. Prior to the certification, North Coast Church’s Information Security Officer will provide the Board with a status report of North Coast Church’s Safeguarding Member Information Program.
-
 **Risk Assessment**
 
 North Coast Church maintains a risk assessment that identifies potential threats to member information and evaluates the potential impact of the threats.
 
-On an annual basis, the risk assessment is reviewed and updated by the Information Security Officer and North Coast Church’s Management. North Coast Church’s controls are then updated accordingly.
+On an annual basis, the risk assessment is reviewed and updated by the Information Technology Director and North Coast Church’s Chief Operations Officer. North Coast Church’s controls are then updated accordingly.
 
 **Management and Control of Risk**
 
 In order to manage and control the risks that have been identified, North Coast Church will:
 
-- Establish written procedures designed to implement, maintain, and enforce
-- North Coast Church’s information security program
-- Limit access to North Coast Church’s member information systems to authorized
-- employees only
+- Establish written procedures designed to implement, maintain, and enforce North Coast Church’s information security program
+- Limit access to North Coast Church’s member information systems to authorized employees only
 - Establish controls to prevent employees from providing member information to unauthorized individuals
 - Limit access at North Coast Church’s physical locations containing member information, such as building, computer facilities, and records storage facilities, to authorized individuals only
 - Provide encryption of electronic member information including, but not limited to, information in transit or in storage on networks or systems to which unauthorized individuals may have access.
-- Ensure that member information system modifications are consistent with
-- North Coast Church’s information security program
+- Ensure that member information system modifications are consistent with North Coast Church’s information security program
 - Implement dual control procedures, segregation of duties, and employee background checks for employees with responsibilities for, or access to, member information
-- Monitor North Coast Church’s systems and procedures to detect actual and attempted
-- attacks on, or intrusions into, the member information systems
+- Monitor North Coast Church’s systems and procedures to detect actual and attempted attacks on, or intrusions into, the member information systems
 - Establish response programs that specify actions to be taken when North Coast Church suspects or detects that unauthorized individuals have gained access to member information systems, including appropriate reports to regulatory and law enforcement agencies
 - Implement measures to protect against destruction, loss, or damage of member information due to environmental hazards, such as fire and water damage or technical failures
 - Regularly test, monitor, evaluate, and adjust, as appropriate, the information security program in light of any relevant changes in technology, the sensitivity of member information, business arrangements, outsourcing arrangements, and internal or external threats to North Coast Church’s information security systems
 
-**Member information security controls /R**
+**Member information security controls**
 
 North Coast Church has established a series of member information security controls to manage the threats identified in the risk assessment. The controls fall into ten categories.
 
@@ -118,7 +102,7 @@ North Coast Church will maintain a listing of its critical systems. This listing
 
 The industry wide general principles of records management apply to records in any format. North Coast Church will adhere to policies and procedures for protecting critical records from all outside and unauthorized access. Access to sensitive data will be defined as to who can access which data and under what circumstances. The access will be logged to provide accountability.
 
-North Coast Church will adhere to the required state statues, NCUA, Data Classification Procedures, and federal guidelines designated for record retention. North Coast Church will adhere to the Records Retention Policy for the proper process to dispose of records. Record disposal will be well documented. An inventory will be maintained of the types of records that are disposed of, including certification that the records have been destroyed.
+North Coast Church will adhere to the required state statues, Data Classification Procedures, and federal guidelines designated for record retention. North Coast Church will adhere to the Records Retention Policy for the proper process to dispose of records. Record disposal will be well documented. An inventory will be maintained of the types of records that are disposed of, including certification that the records have been destroyed.
 
 - **Clean desk policy**
 
@@ -134,7 +118,7 @@ North Coast Church will adhere to policies and procedures for acquisition of com
 
 A review of technology needs will occur during the annual budgeting and work planning processes. Needs will be classified into either current year plans or long range needs. The acquisition of technology solutions will be assessed to ensure that both current and future needs are met.
 
-- **Incident response plan /R**
+- **Incident response plan**
 
 Incident response is defined as an organized approach to addressing and managing the aftermath of a security incident. The goal is to handle the situation in a way that limits damage and reduces recovery time and costs.
 
@@ -146,10 +130,8 @@ Below is a summary of the steps the IT Department, as well as North Coast Church
   - Prevent any further intrusion to the system
   - Determine the extent of the intrusion and any damage caused
   - Take any steps possible to prevent any future such intrusions
-- The IT Department will notify Administrative Management and Risk Management of the intrusion. Administrative Management will be responsible for notifying the Board of Directors.
-- The IT Department will follow escalation processes and notification procedures as outlined in the Incident Response Plan. Examples include, but are not limited to, notifications to staff, regulatory agencies, law enforcement agencies, FBI, NCUA, or the public.
-- If applicable, the Director of Compliance Bank Secrecy Act Officer (BSA) will be notified and will file a Suspicious Activity Report with FinCEN.
-- If applicable, notices will be sent to affected members in compliance with the requirements of Wisconsin State Civil Codes.
+- The IT Department will notify Administrative Management and Risk Management of the intrusion.
+- The IT Department will follow escalation processes and notification procedures as outlined in the Incident Response Plan. Examples include, but are not limited to, notifications to staff, regulatory agencies, law enforcement agencies, FBI, or the public.
 
 **Training**
 
@@ -159,8 +141,8 @@ All new employees will receive IT Security Training, as part of their orientatio
 
 **Testing**
 
-The Information Security Officer annually audits North Coast Church’s Safeguarding Member Information Program. The Information Security Officer provides a formal report of its findings to Senior Management, the Security Officer, and the Board of Directors.
+The Information Technology Director annually audits North Coast Church’s Safeguarding Member Information Program. The Information Security Officer provides a formal report of its findings to Senior Management, the Security Officer, and the Board of Directors.
 
 North Coast Church will require periodic tests of the key controls, systems, and procedures of the information security program. In accordance with current industry standards, the frequency and nature of such tests shall be determined by the IT Department.
 
-The Information Security Officer will be responsible for reviewing the results of these tests and for making recommendations for improvements where needed.
+The Information Technology Director will be responsible for reviewing the results of these tests and for making recommendations for improvements where needed.
