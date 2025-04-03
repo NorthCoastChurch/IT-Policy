@@ -154,7 +154,9 @@ North Coast Church information systems must not be used for personal benefit or 
 
 ## **Incidental Use**
 
-As a convenience to staff, incidental use of information systems is permitted. The following restrictions apply:
+As a convenience to staff, incidental use of information systems is permitted. However, before using work computers for personal purposes, it is important to understand that doing so may expose you to the same cybersecurity risks faced by our organization. North Coast Church is not responsible for any damage that may result from incidental use of computers or technology.
+
+The following restrictions apply to incidental use of computers and technology at North Coast Church:
 
 - Authorized Users are responsible for exercising good judgment regarding the reasonableness of personal use. Immediate supervisors are responsible for supervising their employees regarding excessive personal use.
 
