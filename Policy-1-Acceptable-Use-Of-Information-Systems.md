@@ -58,7 +58,7 @@ North Coast Church’s IT Department reserves the right to audit networks and sy
 
 North Coast Church’s IT Department reserves the right to remove any non-business related software or files from any system.
 
-Examples of non-business related software or files include, but are not limited to; games, unapproved applications, personal email, personal files (music, image, document or other), unapproved software applications.
+Examples of non-business related software or files include, but are not limited to; games, personal email, personal files (music, image, document or other), and unapproved software applications.
 
 **Security and Sensitive Information**
 
@@ -66,6 +66,7 @@ All mobile and computing devices that connect to the internal network must compl
 
 - Account Management
 - Anti-Virus
+- Artificial Intelligence
 - Owned Mobile Device Acceptable Use and Security
 - E-mail
 - Internet
@@ -124,7 +125,7 @@ The following activities are prohibited with no exceptions:
 
 - Revealing your account password to others, sharing login information, using any account that does not belong to you, or allowing others to use your computer, account or access. This includes family and other household members when work is being done at home.
 
-- Using your staff account or access to church data for non-ministry use or personal gain.
+- Using your staff account or access to church data for non-ministry use.
 
 - Copying North Coast Church data from staff accounts or approved storage locations, systems, or applications to be stored or used elsewhere.
 
