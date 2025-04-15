@@ -8,7 +8,7 @@ Additionally, it is the procedures, equipment, facilities, software, and data th
 
 **Authorized User**: An individual or automated application or process that is authorized to access resources by the system owner, in accordance with the system owner’s procedures and rules.
 
-**Device**: A piece of portable or stationary electronic equipment that can retrieve, process, or store data. Including but not limited to smartphones, tablets, laptops, servers, networking equipment, IOT devices, copiers, etc.
+**Device**: A piece of portable or stationary electronic equipment that can retrieve, process, or store data. Including but not limited to: smartphones, tablets, laptops, servers, networking equipment, IOT devices, copiers, etc.
 
 # **Overview**
 
@@ -16,7 +16,7 @@ Data, electronic file content, information systems, and computer systems at Nort
 
 Information Technology’s (IT) intentions are not to impose restrictions that are contrary to North Coast Church’s established culture of openness, trust, and integrity. IT is committed to protecting North Coast Church’s authorized users, partners, and the organization from illegal or damaging actions by individuals either knowingly or unknowingly.
 
-Internet/Intranet-related systems, including, but not limited to, computer equipment, software, operating systems, storage media, accounts providing electronic mail, instant messaging, web browsing, and file sharing are the property of North Coast Church.
+Internet/Intranet-related systems, including, but not limited to: computer equipment, software, operating systems, storage media, accounts providing electronic mail, instant messaging, web browsing, and file sharing are the property of North Coast Church.
 
 These systems are to be used for business purposes in serving the interests of North Coast Church and of its employees during normal operations.
 
@@ -58,7 +58,7 @@ North Coast Church’s IT Department reserves the right to audit networks and sy
 
 North Coast Church’s IT Department reserves the right to remove any non-business related software or files from any system.
 
-Examples of non-business related software or files include, but are not limited to; games, personal email, personal files (music, image, document or other), and unapproved software applications.
+Examples of non-business related software or files include but are not limited to: games, personal email, personal files (music, image, document or other), and unapproved software applications.
 
 **Security and Sensitive Information**
 
@@ -103,7 +103,7 @@ Under no circumstances is an employee, volunteer, contractor, consultant, or tem
 
 The following activities are prohibited with no exceptions:
 
-- Unauthorized use of copyrighted material including, but not limited to, digitization and distribution from copyrighted sources, the installation or use of any copyrighted content, software, or service for which North Coast Church or the end user does not have an active license.
+- Unauthorized use of copyrighted material including, but not limited to: digitization and distribution from copyrighted sources, the installation or use of any copyrighted content, software, or service for which North Coast Church or the end user does not have an active license.
 
 - Purchasing hardware, software, or services for North Coast Church use without prior IT review and authorization.
 
@@ -112,7 +112,7 @@ The following activities are prohibited with no exceptions:
 - The use of IT-provided or approved platforms, apps, software, services, resources, or assets outside of their intended use-cases. 
 
 - Purposely engaging in activity that may:
-  - Violate of the rights of any person or company protected by: copyright, terms of service, trade secret, patent, or other intellectual property, or similar laws or regulations. This includes, but not limited to, the procurement, storage, installation, use, or distribution of products or services that are not appropriately licensed for use by North Coast Church.
+  - Violate the rights of any person or company protected by: copyright, terms of service, trade secret, patent, or other intellectual property, or similar laws or regulations. This includes, but is not limited to: the procurement, storage, installation, use, or distribution of products or services that are not appropriately licensed for use by North Coast Church.
   - Interfere with the regular operation of computers, networks, software, or other IT provisioned technology or services.
   - Deprive an authorized North Coast Church user access to a North Coast Church resource.
   - Obtain extra resources beyond those allocated.
