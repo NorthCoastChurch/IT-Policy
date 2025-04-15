@@ -128,6 +128,8 @@ The following activities are prohibited with no exceptions:
 
 - Using your staff account or access to church data for non-ministry use.
 
+- Using your staff account to sign up for apps, products, services, or online software not yet authorized by the IT Department.  _This includes apps, products, services and online software that are available for "free."_
+
 - Copying North Coast Church data from staff accounts or approved storage locations, systems, or applications to be stored or used elsewhere.
 
 - Attempting to access any data, electronic content, or systems for which you do not have authorization, explicit consent, or implicit need to access in order to perform your assigned job duties.
