@@ -190,7 +190,7 @@ New employee onboarding shall include this Policy 1 at a minimum, and in additio
 
 I have received a copy of the North Coast Church Acceptable Use of Information Systems Policy.
 
-I understand the information in the Acceptable Use of Information Systems policy is a summary only, and it is my responsibility to review and become familiar with all of the material contained in the Comprehensive IT Policy.
+I understand the information in the Acceptable Use of Information Systems policy is a summary only, and it is my responsibility to review and become familiar with all of the material contained in the Comprehensive IT Policy published at books.northcoastchurch.com.
 
 I understand the most updated policies and Bylaws will always be located on the intranet for my reference, and it will be my responsibility to review the policies and Bylaws as they are updated.
 
