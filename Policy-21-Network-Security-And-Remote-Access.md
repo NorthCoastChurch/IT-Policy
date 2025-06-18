@@ -1,3 +1,5 @@
+# Network Security and Remote Access
+
 # **Definitions**
 
 **Virtual Private Network (VPN)**: A private network that extends across a public network or internet. It enables users to send and receive data across shared or public networks as if their computing devices were directly connected to the private network. Some VPNs allow employees to securely access a corporate intranet while located outside the office.
@@ -35,7 +37,7 @@
 
 # **Overview**
 
-This policy is to protect North Coast Church’s electronic information from being inadvertently compromised by authorized personnel connecting to the North Coast Church network locally and remotely via VPN**.**
+This policy is to protect North Coast Church’s electronic information from being inadvertently compromised by authorized personnel connecting to the North Coast Church network locally and remotely via VPN.
 
 **Purpose**
 
@@ -47,7 +49,7 @@ Remote access implementations that are covered by this policy include, but are n
 
 **Audience**
 
-This policy applies to all North Coast Church employees, volunteers/directors, contractors, vendors, and agents with a computer or workstation used to connect to the North Coast Church network. This policy applies to remote access connections used to do work on behalf of North Coast Church, including reading or sending email and viewing intranet resources.
+This policy applies to all North Coast Church employees, volunteers, contractors, vendors, and agents with a computer or workstation used to connect to the North Coast Church network. This policy applies to remote access connections used to do work on behalf of North Coast Church, including reading or sending email and viewing intranet resources.
 
 ## **Policy Detail**
 
@@ -69,7 +71,7 @@ Users are not permitted to alter network hardware in any way.
 
 **Remote Access**
 
-It is the responsibility of North Coast Church employees, volunteers/directors, contractors, vendors, and agents, with remote access privileges to North Coast Church’s corporate network, to ensure that their remote access connection is given the same consideration as the user’s on-site connection to North Coast Church.
+It is the responsibility of North Coast Church employees, volunteers, contractors, vendors, and agents, with remote access privileges to North Coast Church’s corporate network, to ensure that their remote access connection is given the same consideration as the user’s on-site connection to North Coast Church.
 
 General access to the Internet, through the North Coast Church network is permitted for employees who have flat-rate services and only for business purposes. North Coast Church employees are responsible to ensure that they:
 
@@ -90,9 +92,9 @@ Dial-in modem usage is not a supported or acceptable means of connecting to the 
 
 Secure remote access must be strictly controlled. Control will be enforced with Multi- Factor Authentication (MFA).
 
-North Coast Church employees, volunteers/directors, and contractors should never provide their login or email password to anyone, including family members.
+North Coast Church employees, volunteers, and contractors should never provide their login or email password to anyone, including family members.
 
-North Coast Church employees, volunteers/directors, and contractors with remote access privileges:
+North Coast Church employees, volunteers, and contractors with remote access privileges:
 
 - Must ensure that their computer, which is remotely connected to North Coast Church’s corporate network, is not connected to any other network at the same time, with the exception of personal networks that are under the complete control of the user.
 - Must not use non-North Coast Church email accounts (i.e. Hotmail, Yahoo, AOL), or other external resources to conduct North Coast Church business, thereby ensuring that official business is never confused with personal business.
@@ -109,13 +111,13 @@ Organizations or individuals who wish to implement non-standard Remote Access so
 
 The purpose of this section is to provide guidelines for Remote Access IPSec or L2TP Virtual Private Network (VPN) connections to the North Coast Church corporate network. This applies to implementations of VPN that are directed through an IPSec Concentrator.
 
-This applies to all North Coast Church employees, volunteers/directors, contractors, consultants, temporaries, and other workers including all personnel affiliated with third parties utilizing VPN’s to access the North Coast Church network.
+This applies to all North Coast Church employees, volunteers, contractors, consultants, temporaries, and other workers including all personnel affiliated with third parties utilizing VPN’s to access the North Coast Church network.
 
-Approved North Coast Church employees, volunteers/directors, and authorized third parties (customers, vendors, etc.) may utilize the benefit of a VPN on a North Coast Church device, which is a “user managed” service. This means that the user is responsible for selecting an Internet Service Provider (ISP), coordinating installation, and paying associated fees. Further details may be found in the Remote Access section.
+Approved North Coast Church employees, volunteers, and authorized third parties (customers, vendors, etc.) may utilize the benefit of a VPN on a North Coast Church device, which is a “user managed” service. This means that the user is responsible for selecting an Internet Service Provider (ISP), coordinating installation, and paying associated fees. Further details may be found in the Remote Access section.
 
 The following guidelines will also apply:
 
-- It is the responsibility of employees or volunteer/directors, with VPN privileges, to ensure that unauthorized users are not allowed access to North Coast Church internal networks.
+- It is the responsibility of employees or volunteer, with VPN privileges, to ensure that unauthorized users are not allowed access to North Coast Church internal networks.
 - VPN use is controlled using a multi-factor authentication paradigm.
 - When actively connected to the corporate network, VPNs will force all traffic to and from the PC over the VPN tunnel; all other traffic will be dropped.
 - VPN gateways will be set up and managed by North Coast Church IT.

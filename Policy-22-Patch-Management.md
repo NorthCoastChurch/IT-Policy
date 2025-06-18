@@ -2,7 +2,7 @@
 
 # **Overview**
 
-Passwords are an important aspect of computer security. They are the front line of protection for user accounts. A poorly chosen password may result in the compromise of North Coast Church’s entire corporate network. As such, all North Coast Church employees or volunteers/directors (including contractors and vendors with access to North Coast Church systems) are responsible for taking the appropriate steps, as outlined below, to select and secure their passwords.
+Software updates and patches are an important aspect of computer security. They are the front line of protection for devices and systems. Failure to update computers and devices may result in the compromise of North Coast Church’s entire corporate network. As such, all North Coast Church employees and volunteers (including contractors and vendors with access to North Coast Church systems) are responsible for taking the appropriate steps to ensure their devices and software have relivent patches and software/firmware updates installed.
 
 **Read More**: [Vulnerability Patch Management As A Service](https://purplesec.us/services/vulnerability-patch-management/)
 
@@ -10,7 +10,7 @@ Passwords are an important aspect of computer security. They are the front line 
 
 Security vulnerabilities are inherent in computing systems and applications. These flaws allow the development and propagation of malicious software, which can disrupt normal business operations, in addition to placing North Coast Church at risk. In order to effectively mitigate this risk, software “patches” are made available to remove a given security vulnerability.
 
-Given the number of computer workstations and servers that comprise the North Coast Church network, it is necessary to utilize a comprehensive patch management solution that can effectively distribute security patches when they are made available. Effective security is a team effort involving the participation and support of every North Coast Church employee.
+Given the number of computer workstations, servers and other devices that comprise the North Coast Church network, it is necessary to utilize a comprehensive patch management solution that can effectively distribute security patches when they are made available. Effective security is a team effort involving the participation and support of every North Coast Church employee.
 
 This policy is to assist in providing direction, establishing goals, enforcing governance, and to outline compliance.
 

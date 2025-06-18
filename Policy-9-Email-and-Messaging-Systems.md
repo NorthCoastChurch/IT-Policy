@@ -1,14 +1,14 @@
-# Email
+# Email and Messaging Systems
 
 # **Definitions**
+
+**Electronic mail (e-mail)**: Any message, image, form, attachment, data, or other communication sent, received, or stored within an electronic mail system. For the purpose of this policy instant messaging, text messaging, and other forms of electronic communication are also considered electronic mail.
 
 **Anti-Spoofing**: A technique for identifying and dropping units of data, called packets, that have a false source address.
 
 **Antivirus**: Software used to prevent, detect, and remove malicious software.
 
 **Electronic mail system**: Any computer software application that allows electronic mail to be communicated from one computing system to another.
-
-**Electronic mail (e-mail)**: Any message, image, form, attachment, data, or other communication sent, received, or stored within an electronic mail system.
 
 **Email spoofing:** The forgery of an email header so the message appears to have originated from someone other than the actual source. The goal of email spoofing is to get recipients to open, and possibly even respond to, a solicitation to provide sensitive data or perform an action such as processing a wire transfer.
 
@@ -28,7 +28,7 @@ E-mail at North Coast Church must be managed as valuable and mission critical re
 
 **Purpose**
 
-The purpose of this policy is to establish rules for the use of North Coast Church email for sending, receiving, or storing of electronic mail.
+The purpose of this policy is to establish rules for the use of North Coast Church email for sending, receiving, or storing of electronic mail. All use of email must be consistent with North Coast Church policies and procedures of ethical conduct, safety, compliance with applicable laws, and proper business practices.
 
 **Audience**
 
@@ -53,27 +53,25 @@ Anti-spoofing practices have been initiated for detecting spoofed emails. Employ
 
 Incoming emails are scanned for malicious file attachments. If an attachment is identified as having an extension known to be associated with malware, or prone to abuse by malware or bad actors or otherwise poses heightened risk, the attachment will be removed from the email prior to delivery. Email rejection is achieved through listing domains and IP addresses associated with malicious actors along with other threat sensing technologies. Any incoming email originating from a known malicious actor will not be delivered. Any email account misbehaving by sending out spam will be shut down. A review of the account will be performed to determine the cause of the actions.
 
-E-mail is to be used for business purposes and in a manner that is consistent with other forms of professional business communication. All outgoing attachments are automatically scanned for virus and malicious code. The transmission of a harmful attachment can not only cause damage to the recipient’s system, but also harm North Coast Church’s reputation. The following activities are prohibited by policy:
+E-mail is to be used for business purposes only and in a manner that is consistent with other forms of professional business communication. All outgoing attachments are automatically scanned for virus and malicious code. The transmission of a harmful attachment can not only cause damage to the recipient’s system, but also harm North Coast Church’s reputation. The following activities are prohibited by policy:
 
-- Users are prohibited from automatically forwarding or integrating email to third-party applications or systems. Individual messages which are forwarded intentionally must not contain confidential or sensitive information.
-- Users are prohibited from using third-party email systems and storage servers such as Google, Yahoo, MSN Hotmail, iCloud, etc. to conduct North Coast Church business, to create or memorialize any binding transactions, or to store or retain email on behalf of North Coast Church.
+- Users are prohibited from automatically forwarding or integrating email to third-party clients, applications or systems. Individual messages which are forwarded intentionally must not contain confidential or sensitive information.
+- Users are prohibited from using third-party email systems and storage servers such as Google, Yahoo, Hotmail, iCloud, etc. to conduct North Coast Church business, to create or memorialize any binding transactions, or to store or retain email on behalf of North Coast Church.
 - Sending e-mail that may be deemed intimidating, harassing, or offensive. This includes, but is not limited to: abusive language, politics/political beliefs, sexually explicit remarks or pictures, profanities, defamatory or discriminatory remarks regarding race, creed, color, gender, age, religion, sexual orientation, national origin, or disability. Employees who receive any emails with this content from any North Coast Church employee should report the matter to their supervisor immediately.
 - Using e-mail for conducting personal business.
-- Using e-mail for the purposes of sending SPAM or other unauthorized solicitations.
+- Sending unsolicited email messages, including sending "junk mail" or other advertising material to individuals who did not specifically request such material (email spam).
 - Violating copyright laws by illegally distributing protected works.
 - Sending e-mail using another person’s e-mail account, except when authorized to send messages for another while serving in an administrative support role.
 - Creating a false identity to bypass policy.
 - Forging or attempting to forge e-mail messages.
-- Using unauthorized e-mail software.
-- Knowingly disabling the automatic scanning of attachments on any North Coast Church computer.
 - Knowingly circumventing e-mail security measures.
 - Sending or forwarding joke e-mails, chain letters, or hoax letters.
 - Sending unsolicited messages to large groups, except as required to conduct North Coast Church business.
 - Sending excessively large messages or attachments.
 - Knowingly sending or forwarding email with computer viruses.
 - Setting up or responding on behalf of North Coast Church without management approval.
-- Signing up for personal subscription services using any @northcoastchurch.com address.
-- Signing up for free or paid trials of software products or services without prior authorization from the IT Department.
+- Signing up for personal subscription services (e.g. Netflix, Hulu, Evernote, Dropbox, Disney+, Spotify, Notion, etc.) using any @northcoastchurch.com address.
+- Signing up for free, paid or trials of software products or services without prior authorization from the IT Department.
 
 All confidential or sensitive North Coast Church material transmitted via e-mail, outside North Coast Church’s network, must be encrypted. Passwords to decrypt the data should not be sent via email.
 
@@ -89,13 +87,8 @@ Incidental personal use of sending e-mail is restricted to North Coast Church ap
 
 No files or documents may be sent or received that may cause legal liability for or embarrassment to North Coast Church. Storage of personal files and documents within North Coast Church’s IT systems is prohibited.
 
-**E-mail Retention /R**
+**E-mail Retention**
 
 - Messages are retained for 36 months. Emails older than 36 months are subject to automatic purging.
 - Deleted and archived emails are subject to automatic purging.
 - Appointments, Tasks, and Notes older than the retention period are subject to automatic purging.
-
-**E-mail Archive**
-
-- Only the owner of a mailbox and the system administrator has access to the archive.
-- Messages will be deleted from the online archive 36 months from the original send/receive date.

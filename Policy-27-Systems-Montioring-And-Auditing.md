@@ -1,3 +1,5 @@
+# Systems Monitoring and Auditing
+
 # **Overview**
 
 Systems monitoring and auditing, at North Coast Church, must be performed to determine when a failure of the information system security, or a breach of the information systems itself, has occurred, and the details of that breach or failure.
@@ -8,7 +10,7 @@ System monitoring and auditing is used to determine if inappropriate actions hav
 
 This policy applies to all information systems and information system components of North Coast Church. Specifically, it includes:
 
-- Mainframes, servers, and other devices that provide centralized computing capabilities
+- Servers, and other devices that provide centralized computing capabilities
 - Devices that provide centralized storage capabilities
 - Desktops, laptops, and other devices that provide distributed computing capabilities
 - Routers, switches, and other devices that provide network capabilities
@@ -20,6 +22,6 @@ Information systems will be configured to record login/logout and all administra
 
 Information systems are to be provided with sufficient primary (on-line) storage to retain 30-days’ worth of log data and sufficient secondary (off-line) storage to retain one year’s worth of data. If primary storage capacity is exceeded, the information system will be configured to overwrite the oldest logs. In the event of other logging system failures, the information system will be configured to notify an administrator.
 
-System logs shall be manually reviewed weekly. Inappropriate, unusual, and/or suspicious activity will be fully investigated by appropriate administrative personnel and findings reported to appropriate security management personnel.
+System logs shall be manually reviewed weekly. Inappropriate, unusual, and/or suspicious activity will be fully investigated by appropriate administrative personnel and findings reported to appropriate management personnel.
 
 System logs are considered confidential information. As such, all access to system logs and other system audit information requires prior authorization and strict authentication. Further, access to logs or other system audit information will be captured in the logs.

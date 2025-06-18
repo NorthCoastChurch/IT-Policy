@@ -70,7 +70,7 @@ There are certain uses of AI that are prohibited. Unless otherwise approved by t
 
 North Coast Church desires to act in an ethical manner when using AI. Accordingly, there may be uses of AI that are legally permissible but which do not meet ethical requirements. Any use of an AI system at North Coast Church should conform to the following ethical guidelines:
 
-- **Informed Consent:**: Prior to inputting personal information into a closed AI system, ensure that you have obtained informed consent from the individual(s) whose personal information will be inputted.
+- **Informed Consent**: Prior to inputting personal information into a closed AI system, ensure that you have obtained informed consent from the individual(s) whose personal information will be inputted.
 - **Integrity in Use**: All users of AI systems should be honest about how AI helped in getting the work done. Even if using an AI system approved by the IT Department for an approved use, you should ensure your manager or the department requesting a task for which you are using an AI system is aware of your use of the AI system. Do not pass off AI-generated work as done by you solely. Additionally, you should ask permission if you desire to use an AI system tool to complete a task. For example, you should ask your manager and HR representative if you may use an AI system to assist in writing a performance evaluation.
 - **Appropriate Content**: Do not use company time or resources to generate content using an AI system that would be considered illegal, inappropriate, harmful to North Coast Church’s brand or reputation, or disrespectful to others.
 - **Unauthorized Use:** Do not use company time or resources to generate content using an AI system for personal use without prior approval of the appropriate department leader.
@@ -96,9 +96,9 @@ Except for AI Embedded Tools in approved software, all uses of AI systems must b
 
 Prior to submitting a request to the IT Department for the use of an AI system, a requester should first obtain the approval of his or her manager. In addition, in evaluating whether to make a request, the requester should ensure that the AI system use, if approved, would conform with the guidelines in this Policy, prior to submitting such request.
 
-# **5. Training**
+# **5. Awareness**
 
-All North Coast Church Representatives who interact with AI systems must be trained on this Policy. Additionally, specific departments or functions at North Coast Church may require more specific training on the use of AI systems for their department or function when more high-risk.
+All North Coast Church Representatives who interact with AI systems must be aware of this Policy. Additionally, specific departments or functions at North Coast Church may require more specific training on the use of AI systems for their department or function when using AI in high-risk usecases.
 
 # **6. Reporting Non-Compliance**
 

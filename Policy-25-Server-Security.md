@@ -1,3 +1,5 @@
+# Server Security
+
 # **Definitions**
 
 **File Transfer Protocol (FTP):** Is a standard Internet protocol for transmitting files between computers on the Internet.
@@ -48,12 +50,10 @@ All established standards and guidelines for the North Coast Church IT environme
 - Operating System (OS) configuration must be in accordance with approved procedures.
 - Unused services and applications must be disabled, except where approved by the Director of IT.
 - Access to services must be logged or protected though appropriate access control methods.
-- Security patches must be installed on the system as soon as possible through
-- North Coast Church’s configuration management processes.
+- Security patches must be installed on the system as soon as possible through North Coast Church’s configuration management processes.
 - Trust relationships allow users and computers to be authenticated (to have their identity verified) by an authentication authority. Trust relationships should be evaluated for their inherent security risk before implementation.
 - Authorized users must always use the standard security principle of “Least Required Access” to perform a function.
-- System administration and other privileged access must be performed through a secure connection. Root is a user account that has administrative
-- privileges which allows access to any file or folder on the system. Do not use the root account when a non-privileged account will do.
+- System administration and other privileged access must be performed through a secure connection. Root is a user account that has administrative privileges which allows access to any file or folder on the system. Do not use the root account when a non-privileged account will do.
 - All North Coast Church servers are to be in access-controlled environments.
 - All employees are specifically prohibited from operating servers in environments with uncontrolled access (i.e. offices).
 

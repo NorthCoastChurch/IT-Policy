@@ -1,3 +1,5 @@
+# Wireless Wi-Fi Connectivity
+
 # **Definitions**
 
 **Wireless Access Point (AP)**: A device that allows wireless devices to connect to a wired network using Wi-Fi or related standards.
@@ -20,17 +22,17 @@ The purpose of this policy is to secure and protect the information assets owned
 
 **North Coast Church Wi-Fi Network**
 
-The North Coast Church Wi-Fi network is provided on a best-effort basis, primarily as a convenience to employees and others who may receive permission to access it. For employee business use, it is designed to be a supplement to, and not a substitute for, the production wired local area network. For non-employees, it is also provided as a convenience, primarily as a way for members to access North Coast Church online products and services. Staff may easily demonstrate North Coast Church online products and services to members or prospects. Wi-Fi access points, located at the Court Street facilities and in most branch offices, allow for compatible wireless device connectivity.
+The North Coast Church Wi-Fi network is provided on a best-effort basis, primarily as a convenience to employees and others who may receive permission to access it. For employee business use, it is designed to be a supplement to, and not a substitute for, the production wired local area network. For non-employees, it is also provided as a convenience, primarily as a way for members to access North Coast Church online products and services. Wi-Fi access points, located at North Coast Church campuses and office locations allow for compatible wireless device connectivity.
 
 Microwaves, cordless telephones, neighboring APs, and other Radio Frequency (RF) devices that operate on the same frequencies as Wi-Fi are known sources of Wi-Fi signal interference. Wi-Fi bandwidth is shared by everyone connected to a given Wi-Fi access point (AP). As the number of Wi-Fi connections increase, the bandwidth available to each connection decreases and performance deteriorates. Therefore, the number and placement of APs in a given building is a considered design decision. Due to many variables out of direct North Coast Church control, availability, bandwidth, and access is not guaranteed.
 
 The North Coast Church Wi-Fi network and connection to the Internet shall be:
 
-- Secured with a passphrase and encryption, in accordance with current industry practice
+- Secured with a passphrase and encryption or protected by guest isolation technologies, in accordance with current industry practice
   - Passphrases will be of appropriate complexity and changed at appropriate intervals, balancing security practice with the intended convenient business use of the Wi-Fi
 - Physically or logically separate from the North Coast Church production wired local area network (LAN) and its resources
-- Provided as a convenience for the use of North Coast Church employees, their vendors while visiting North Coast Church, the members of North Coast Church, and other visitors with North Coast Church’s express permission via provision of an appropriate passphrase
-- Optionally provided to members and qualifying visitors, by North Coast Church staff, with the provision of an appropriate passphrase and may be accessed only with the agreement to acceptable use policy statements provided online or in a written or verbal format
+- Provided as a convenience for the use of North Coast Church employees, their vendors while visiting North Coast Church, the members of North Coast Church, and other visitors with North Coast Church’s express permission via provision of an appropriate passphrase or acceptance of the terms of use
+- Optionally provided to members and qualifying visitors, by North Coast Church staff, with the provision of an appropriate passphrase or acceptance of the terms of use and may be accessed only with the agreement to acceptable use policy statements provided online or in a written or verbal format
 - Accessed by employees only in accordance with the Acceptable Use policy and its cross-referenced policies seen in Policy 1 in this document
 - Used for access to the North Coast Church production LAN only for business use and with the approved use of a North Coast Church issued virtual private network (VPN) connection
 
@@ -42,10 +44,10 @@ When using Wi-Fi on a mobile device in a public establishment, there are precaut
 
 **Do:**
 
-- As with any Internet-connected device, defend your laptop, tablet, phone, etc. against Internet threats. Make sure your computer or device has the latest antivirus software, turn on the firewall, never perform a download on a public Internet connection, and use strong passwords.
+- As with any Internet-connected device, defend your laptop, tablet, phone, etc. against Internet threats. Make sure your computer or device has the latest antivirus software, turn on the firewall, keep installed software up to date, and use strong passwords.
 - Look around before selecting a place to sit, consider a seat with your back to a wall and position your device so that someone nearby cannot easily see the screen.
 - Assume all Wi-Fi links are suspicious, so choose a connection carefully. A rogue wireless link may have been set up by a hacker. Actively choose the one that is known to be the network you expect and have reason to trust.
-- Try to confirm that a given Wi-Fi link is legitimate. Check the security level of the network by choosing the most secure connection, even if you have to pay for access. A password-protected connection (one that is unique for your use) is better than one with a widely shared passphrase and infinitely better than one without a passphrase.
+- Try to confirm that a given Wi-Fi link is legitimate. Check the security level of the network by choosing the most secure connection, even if you have to pay for access. A password-protected connection (one that is unique for your use) is better than one with a widely shared passphrase and infinitely better than an open network with no splash page.
 - Consider that one of two similar-appearing SSIDs or connection names may be rogue and could have been setup by a hacker. Inquire of the manager of the establishment for information about their official Wi-Fi access point.
 - Avoid free Wi-Fi with no encryption. Even if your website or other activity is using https (with a lock symbol in your browser) or other secure protocols, you are at much greater risk of snooping, eavesdropping, and hacking when on an open Wi- Fi connection (such as at Starbuck’s, McDonald’s, some hotels, etc.).
 - Seek out Wi-Fi connections that use current industry accepted encryption methods and that generally will require the obtaining of a passphrase from the establishment.

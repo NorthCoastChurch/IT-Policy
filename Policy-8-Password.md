@@ -1,3 +1,5 @@
+# Passwords
+
 # **Definitions**
 
 **Application Administration Account**: Any account that is for the administration of an application (i.e. SQL database administrator, etc.).
@@ -22,7 +24,7 @@ This policy applies to all personnel or volunteers/directors who have, or are re
 
 **User Network Passwords**
 
-- Passwords for North Coast Church network access must be implemented according to the following guidelines:
+- Passwords for North Coast Church resource access must be implemented according to the following guidelines:
 - Passwords must be changed if compromised or known by someone other than the owner
 - Passwords must adhere to a minimum length of 10 characters
 - Passwords must contain a combination of alpha, numeric, and special characters, where the computing system permits (!@#$%^&\*\_+=?/~’;’,<>|\\).
@@ -37,9 +39,9 @@ This policy applies to all personnel or volunteers/directors who have, or are re
 - Non-expiring passwords must be documented listing the requirements for those accounts. These accounts need to adhere to the same standards as administrator accounts.
 - Administrators must not circumvent the Password Policy for the sake of ease of use
 
-**Password Protection /R**
+**Password Protection**
 
-- - The same password must not be used for multiple accounts.
+- The same password must not be used for multiple accounts.
     - Passwords must not be shared with anyone. All passwords are to be treated as sensitive, confidential North Coast Church information.
     - Stored passwords must be encrypted.
     - Passwords must not be inserted in e-mail messages or other forms of electronic communication.
@@ -52,10 +54,10 @@ This policy applies to all personnel or volunteers/directors who have, or are re
 - Take control of the passwords and protect them
 - Report the discovery to IT
   - Users cannot circumvent password entry with an auto logon, application remembering, embedded scripts, or hard coded passwords in client software. Exceptions may be made for specific applications (like automated backup processes) with the approval of IT. For an exception to be approved, there must be a procedure to change the passwords.
-  - PCs must not be left unattended without enabling a password-protected screensaver or logging off the device.
+  - Computers and Devices must not be left unattended without enabling a password-protected screensaver or logging off the device.
   - If the security of an account is in question, the password must be changed immediately. In the event passwords are found or discovered, the following steps must be taken:
 - Take control of the passwords and protect them
-- Report the discovery to IT /R
+- Report the discovery to IT
   - Security tokens (i.e. smartcards, RSA hardware tokens, etc.) must be returned upon demand or upon termination of the relationship with North Coast Church.
 
 **Application Development Standards**

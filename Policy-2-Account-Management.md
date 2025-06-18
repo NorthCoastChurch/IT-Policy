@@ -10,9 +10,9 @@
 
 # **Overview**
 
-Computer accounts are the means used to grant access to North Coast Church’s information systems. These accounts provide a means of providing accountability, a key to any computer security program, for North Coast Church usage.
+Staff accounts are the means used to grant access to North Coast Church’s information systems. These accounts provide a means of providing accountability, a key to any computer security program, for North Coast Church usage.
 
-This means that creating, controlling, and monitoring all computer accounts is extremely important to an overall security program.
+This means that creating, controlling, and monitoring all staff accounts is extremely important to an overall security program.
 
 ## **Purpose**
 
@@ -20,7 +20,7 @@ The purpose of this policy is to establish a standard for the creation, administ
 
 ## **Audience**
 
-This policy applies to the employees, volunteers, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties with authorized access to any North Coast Church information system
+This policy applies to the employees, volunteers, contractors, consultants, temporaries, and other workers at North Coast Church, including all personnel affiliated with third parties with authorized access to any North Coast Church information system.
 
 ## **Policy Detail**
 

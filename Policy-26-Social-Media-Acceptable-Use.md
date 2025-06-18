@@ -1,8 +1,10 @@
+# Social Media Acceptable Use
+
 # **Definitions**
 
 **Anonymous content**: A comment, reply, or post submitted to a North Coast Church or affiliate site where the user has not registered and is not logged into the site
 
-**North Coast Church Official**: is identified as any employee, officer, Board of Director, or volunteer
+**North Coast Church Official**: is identified as any employee, officer, or volunteer
 
 **Facebook**: A free social networking website
 
@@ -12,13 +14,13 @@
 
 **Social Media**: A form of interactive online communication in which users can generate and share content through text, images, audio, and/or video. For purposes of this policy, “Social Media” includes, but is not limited to, online blogs, chat rooms, personal websites, and social networking sites, such as Facebook, Twitter, MySpace, LinkedIn, YouTube, etc. The absence of, or lack of, explicit reference to a specific social networking tool does not limit the extent of the application of this policy. As new online tools are introduced, this policy will be equally applicable without advance notice.
 
-**Twitter**: A free social networking microblogging service that allows registered members to broadcast short posts called tweets
+**X/Twitter**: A free social networking microblogging service that allows registered members to broadcast short posts called tweets
 
 **YouTube**: A video-sharing website on which users can upload, share, and view videos
 
 # **Overview**
 
-The use of external social media (i.e. Facebook, LinkedIn, Twitter, YouTube, etc.) within organizations for business purposes is increasing. North Coast Church faces exposure of a certain amount of information that can be visible to friends of friends from social media. While this exposure is a key mechanism driving value, it can also create an inappropriate conduit for information to pass between personal and business contacts. Tools to establish barriers between personal and private networks and tools to centrally manage accounts are only beginning to emerge. Involvement by the IT Department for security, privacy, and bandwidth concerns is of utmost importance.
+The use of external social media (i.e. Facebook, LinkedIn, X/Twitter, YouTube, etc.) within organizations for business purposes is increasing. North Coast Church faces exposure of a certain amount of information that can be visible to friends of friends from social media. While this exposure is a key mechanism driving value, it can also create an inappropriate conduit for information to pass between personal and business contacts. Tools to establish barriers between personal and private networks and tools to centrally manage accounts are only beginning to emerge. Involvement by the IT Department for security, privacy, and bandwidth concerns is of utmost importance.
 
 **Purpose of Using Social Media**
 
@@ -33,11 +35,11 @@ The use of external social media (i.e. Facebook, LinkedIn, Twitter, YouTube, etc
 
 ## **Policy Detail**
 
-North Coast Church encourages the use of social media as a channel for business communication, consistent with BCHHU’s corporate marketing and communications strategy. It is the policy of North Coast Church to establish guidelines for safe social media usage with respect to protecting North Coast Church information. The safety and confidentiality of information is vital to North Coast Church’s success. North Coast Church has established this policy to set parameters and controls related to North Coast Church Official’s usage of social media websites.
+North Coast Church encourages the use of social media as a channel for business communication, consistent with North Coast Church's marketing and communications strategy. It is the policy of North Coast Church to establish guidelines for safe social media usage with respect to protecting North Coast Church information. The safety and confidentiality of information is vital to North Coast Church’s success. North Coast Church has established this policy to set parameters and controls related to North Coast Church Official’s usage of social media websites.
 
 **Terms and Conditions of Use**
 
-All requests for a North Coast Church Official’s use of external social media, on behalf of North Coast Church, must be submitted to the Senior Management Team. North Coast Church may allow access to select pre-approved social media websites. North Coast Church Officials may only access these sites in a manner consistent with North Coast Church’s security protocols and North Coast Church Officials may not circumvent IT Security protocols to access social media sites.
+All requests for a North Coast Church Official’s use of external social media, on behalf of North Coast Church, must be submitted to the Communications Team. North Coast Church may allow access to select pre-approved social media websites. North Coast Church Officials may only access these sites in a manner consistent with North Coast Church’s security protocols and North Coast Church Officials may not circumvent IT Security protocols to access social media sites.
 
 **Use of personal social media accounts and user IDs, for North Coast Church use, is prohibited.**
 
@@ -55,7 +57,7 @@ North Coast Church Officials are to acknowledge they have reviewed the social me
 
 **Representing North Coast Church**
 
-North Coast Church Senior Management will designate a person or team to manage and respond to social media issues concerning North Coast Church and will determine who will have the authority to contribute content. This person(s)’s responsibilities will include, but are not limited to:
+North Coast Church Communications Department will designate a person or team to manage and respond to social media issues concerning North Coast Church and will determine who will have the authority to contribute content. This person(s)’s responsibilities will include, but are not limited to:
 
 - **Managing** social media tools and channels;
 - **Responding** to questions internally and externally about the social media site;
@@ -68,7 +70,7 @@ North Coast Church will take the necessary steps to make sure the content compli
 
 All North Coast Church Officials who participate in social media, on behalf of North Coast Church, are expected to represent North Coast Church in a professional manner. Failure to do so could have negative impact on North Coast Church and could jeopardize a North Coast Church Official’s ability to participate in social media in the future.
 
-North Coast Church owns all authorized social media and networking content. North Coast Church Officials are prohibited from taking, saving, or sending any North Coast Church content distributed via social media while employed, separated, serving on the Board of Directors, or terminated by North Coast Church.
+North Coast Church owns all authorized social media and networking content. North Coast Church Officials are prohibited from taking, saving, or sending any North Coast Church content distributed via social media while employed, separated, or terminated by North Coast Church.
 
 New technologies and social networking tools continually evolve. As new tools emerge, this policy will be updated to reflect the changes.
 
@@ -99,13 +101,13 @@ North Coast Church Officials should not take any action via social media website
 
 **Rules of Engagement**
 
-Protecting member information is everyone’s number one responsibility. Information that can be used to disclose a member’s personal information in any way should never be posted. Members trust North Coast Church to protect their financial assets and information.
+Protecting member information is everyone’s number one responsibility. Information that can be used to disclose a member’s personal information in any way should never be posted. Members trust North Coast Church to protect their information.
 
 Communications in written, audio, or video form will be around for a long time, so consider the content carefully and be judicious. Brand, trademark, copyright, fair use, and privacy laws must be respected. If any employee mentions a financial product in a blog, a tweet, or another form, financial disclosure laws apply online. The employee must comply with advertising disclosure regulations by providing a link back to North Coast Church’s website page that lists the proper disclosures.
 
 What is written, produced, or recorded is ultimately the employee’s responsibility. Participation in social computing on behalf of North Coast Church is not a right and, therefore, needs to be taken seriously and with respect. Failure to comply could put an employee’s participation at risk and can lead to discipline. Third-party site’s terms and conditions must be followed.
 
-Denigration of competitors, North Coast Church, or North Coast Church affiliates is not permitted. Communication should be respectful when inviting differing points of view. Topics like politics or religion are not appropriate for North Coast Church communications. Communicate carefully and be considerate; once the words or other materials are out there, they cannot be retracted.
+Denigration of competitors, North Coast Church, or North Coast Church affiliates is not permitted. Communication should be respectful when inviting differing points of view. Political topics are not appropriate for North Coast Church communications. Communicate carefully and be considerate; once the words or other materials are out there, they cannot be retracted.
 
 Personal information belongs to the members of North Coast Church. It is their choice to share that information, not North Coast Church’s. North Coast Church will not publish material without first discussing it with a manager or legal representative.
 
@@ -120,16 +122,14 @@ Personal information belongs to the members of North Coast Church. It is their c
 - Make the effort to be clear, complete, and concise in the communication. Determine if the material can be shortened or improved.
 - If a mistake is made, it must be acknowledged. Be upfront and be quick with the correction. If posting to a blog, make it clear if a modification has been done to an earlier post.
 
-Produce material North Coast Church members will value. Social media communication from North Coast Church should help its members, partners, and co-workers. It should be thought
-
-provoking and build a sense of community. It should help members improve their knowledge or understand North Coast Church or an affiliate better.
+Produce material North Coast Church members will value. Social media communication from North Coast Church should help its members, partners, and co-workers. It should be thought provoking and build a sense of community. It should help members improve their knowledge or understand North Coast Church or an affiliate better.
 
 Anonymous content is not allowed on North Coast Church sites.
 
 **Personal Use of Third-Party Sites During Work Hours**
 
-E-mail and Internet access is provided to support North Coast Church business purposes. If these tools are accessed, incidental personal use of them is permitted. In general, North Coast Church will limit the access of social media sites to North Coast Church Officials who use it on behalf of North Coast Church. Excessive personal use of any Internet tool during work time is not permitted and access privileges may be revoked for abuse of the system.
+E-mail and Internet access is provided to support North Coast Church business purposes. If these tools are accessed, incidental personal use of them is permitted. In general, North Coast Church may limit the access of social media sites to North Coast Church Officials who use it on behalf of North Coast Church. Excessive personal use of any Internet tool, site or service during work time is not permitted and access privileges may be revoked for abuse of the system.
 
 **Retaliation is Prohibited**
 
-North Coast Church prohibits taking negative action against any North Coast Church Official for reporting a possible deviation from this policy or for cooperating in an investigation. Any North Coast Church Official who retaliates against another North Coast Church Official for reporting a possible deviation from this policy or for cooperating in an investigation will be subject to disciplinary action, up to and including termination of employment at North Coast Church or removal from the Board of Directors.
+North Coast Church prohibits taking negative action against any North Coast Church Official for reporting a possible deviation from this policy or for cooperating in an investigation. Any North Coast Church Official who retaliates against another North Coast Church Official for reporting a possible deviation from this policy or for cooperating in an investigation will be subject to disciplinary action, up to and including termination of employment at North Coast Church.

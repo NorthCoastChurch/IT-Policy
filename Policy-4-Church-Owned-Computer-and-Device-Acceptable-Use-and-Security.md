@@ -1,4 +1,4 @@
-# Owned Mobile Device Acceptable Use and Security
+# Church Owned Computer and Device Acceptable Use and Security
 
 # **Definitions**
 
@@ -91,7 +91,7 @@ It is imperative that any North Coast Church owned mobile device that is used to
   - IT maintains the process for security audits on mobile devices. Periodic audits will be performed to ensure devices are not a potential threat to North Coast Church.
 - **Help and Support**
   - North Coast Church’s IT Department will support its sanctioned hardware and software but is not accountable for conflicts or problems caused by the use of unsanctioned media, hardware, or software. This applies even to devices already known to the IT Department.
-  - Employees and temporary staff will not make modifications of any kind to North Coast Church owned and installed hardware or software without the express approval of North Coast Church’s IT Department. This includes, but is not limited to, any reconfiguration of the mobile device.
+  - Employees and temporary staff will not make modifications of any kind to North Coast Church owned and installed hardware or software without the express approval of North Coast Church’s IT Department. This includes, but is not limited to, any reconfiguration of mobile devices.
   - IT reserves the right, through policy enforcement and any other means it deems necessary, to limit the ability of end users to transfer data to and from specific devices and services managed by North Coast Church.
 - **Organizational Protocol**
   - IT can and will establish audit trails and these will be accessed, published, and used without notice. Such trails will be able to track the attachment of an external device to computers, and the resulting reports may be used for investigation of possible breaches and/or misuse. To identify unusual usage patterns or other suspicious activity, the end user agrees to and accepts that his or her access and/or connection to North Coast Church’s networks may be monitored to record dates, times, duration of access, etc. This is done to identify accounts/computers that may have been compromised by external parties. In all cases, data protection remains North Coast Church’s highest priority.

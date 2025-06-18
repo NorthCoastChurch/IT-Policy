@@ -1,3 +1,5 @@
+# Cloud Computing Adoption
+
 # **Definitions**
 
 **Cloud computing**: Is defined as a model for enabling convenient, on-demand network access to a shared pool of configurable computing resources (e.g., networks, servers, storage, applications, and services) that can be rapidly provisioned and released with minimal management effort or cloud provider interaction.
@@ -58,41 +60,23 @@ In evaluating the potential use of a particular cloud platform, North Coast Chur
 
 Cloud services should not be engaged without developing an exit strategy for disengaging from the vendor or service and integrating the service into business continuity and disaster recovery plans. North Coast Church must determine how data would be recovered from the vendor.
 
-**Examples**
-
-The following table outlines the data classifications and proper handling of North Coast Church data.
-
-| **Data Classification** | **Public Cloud Computing, Storage or Sharing\*** | **Private Cloud and On-premise Computing or Storage**<br><br>**User access restricted by username and password or another authentication** |
-| --- | --- | --- |
-| Financial Information | Not Allowed | Allowed<br><br>No special requirements, subject to any applicable laws |
-| Intellectual Property | Allowed but Not Advised | Allowed<br><br>No special requirements, subject to any applicable laws |
-| Other Non-Public Data | Allowed but Not Advised | Allowed<br><br>No special requirements, subject to any applicable laws |
-| Other Public Data | Allowed | Allowed<br><br>No special requirements, subject to any applicable laws |
-| Personally Identifiable Information (PII) | Not Allowed | Allowed<br><br>No special requirements, subject to any applicable laws |
-
-\*See Policy 20 Cloud Computing Adoption Appendix A for approved and non- approved services.
-
-**Cloud Computing Adoption**
-
-**Appendix A**
-
-Rev. April 01, 2021
-
 **Approved Public Cloud Services**
 
 This listing is not represented to be exhaustive and is meant to serve as a point-in-time list of approved or disapproved public cloud services as of the revision date in this appendix. Any cloud service not explicitly listed as approved should be assumed to be not approved until documented otherwise.
 
 | **Services Approved for North Coast Church Use** | **Services Not Approved for North Coast Church Use** |
 | --- | --- |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
-|     |     |
+| Microsoft 365 | ChatGPT |
+| Canva | Dropbox |
+| Adobe Creative Cloud | Box.com |
+| Concur |     |
+| Kleer Card |     |
+| Playlister |     |
+| Google Drive |     |
+| Hubspot |     |
+| Vimeo |     |
+| Zoom |     |
+| 1Password |     |
 
 _\*Limited by user and intended use. See restrictions on data classification use in the main policy body_
 

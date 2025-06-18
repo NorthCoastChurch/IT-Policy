@@ -1,3 +1,5 @@
+# Log Management
+
 # **Definitions**
 
 **End points**: Any user device connected to a network. End points can include personal computers, personal digital assistants, scanners, etc.
