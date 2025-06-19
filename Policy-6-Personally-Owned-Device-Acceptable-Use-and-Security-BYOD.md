@@ -1,4 +1,4 @@
-# Employee Owned Device Acceptable Use and Security BYOD
+# Personally Owned Device Acceptable Use and Security BYOD
 
 # **Definitions**
 
